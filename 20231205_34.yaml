@@ -1,0 +1,5 @@
+- summary: "-   视频号直播敏感词批量添加\n    1.  写工具原因是有人在直播时使用违规词语被强制下播\n    2.  视频号本身有添加敏感词入口，但需要手动添加且一次只能添加一个\n\
+    \    3.  提供了自动批量添加脚本和教程，方便快速添加。飞书文档中有详细说明和代码链接。"
+  text: '# 视频号直播敏感词批量添加> 原文：[`www.yuque.com/for_lazy/thfiu8/rltvqvlh7zbqutkb`](https://www.yuque.com/for_lazy/thfiu8/rltvqvlh7zbqutkb)##
+    (26 赞)视频号直播敏感词批量添加作者： 没必要日期：2023-11-30写这个工具是因为有人在直播的时候，在评论区打了 一些违规的词语，然后就直接被强行下播了。视频号手机和电脑端本身也有添加直播敏感词的入口，但是需要手工添加且一次只能添加一个敏感词，所以就弄了一个自动批量化添加的脚本。其实很简单的，下面写了个简单的教程，然后代码也在里面了。复制、粘贴、回车就可以快速批量添加。有好几张图片就写飞书文档了[`ciyl28mi52.feishu.cn/docx/JdDedPoLCoBNwbx6q3nch21Hntb?from=from_copylink`](https://ciyl28mi52.feishu.cn/docx/JdDedPoLCoBNwbx6q3nch21Hntb?from=from_copylink)希望对大家有点点帮助！*
+    * *评论区：暂无评论![](img/1c37d505930596d12a88ab23e11aa07a.png)* * *'
