@@ -1,4 +1,23 @@
-- summary: "-   Lora 炼丹教程介绍了 Stable Diffusion 的应用层面，重点是 Lora 和 ControlNet 的功能\n  \
+- answers: '-   Lora 负责把自己生活中有关联的人或物炼制成模型，ControlNet 负责更好地“控制”这个“模型”。它们结合起来，可以实现将
+    Stable Diffusion 用于定制真人模特或商业产品模型。
+
+    -   Stable Diffusion 教程提供了 Lora 的功能介绍，炼丹方法，实操案例，整合包和模型下载链接。
+
+    -   ControlNet 在控制模型的过程中扮演了更好地“控制”模型的角色。
+
+    -   实操案例展示了如何通过 Lora 炼制自己生活中有关联的人物成模型，并通过 ControlNet 控制模型实现特定功能。
+
+    -   教程中提供的整合包和模型下载链接可以访问[https://ry5hwpuf7b.feishu.cn/docx/LUmKdLd0AofzbcxFRkQcg56Rnnf](https://ry5hwpuf7b.feishu.cn/docx/LUmKdLd0AofzbcxFRkQcg56Rnnf)。'
+  questions: '-   如何描述 Lora 和 ControlNet 在 Stable Diffusion 中的功能？
+
+    -   Stable Diffusion 教程中提供了哪些内容？
+
+    -   控制模型的过程中，ControlNet 扮演了什么样的角色？
+
+    -   教程中的实操案例如何展示了 Lora 和 ControlNet 的功能？
+
+    -   教程中提供的整合包和模型下载链接有哪些？'
+  summary: "-   Lora 炼丹教程介绍了 Stable Diffusion 的应用层面，重点是 Lora 和 ControlNet 的功能\n  \
     \  1.  Lora 负责将生活中相关的人或物炼制成模型\n    2.  ControlNet 负责更好地控制这个模型\n    3.  教程包含功能介绍、炼丹方法、实操案例，提供整合包和模型下载链接。"
   text: '# 保姆级 Lora 炼丹教程，一站式整合包，让你实现真人模特定制> 原文：[`www.yuque.com/for_lazy/thfiu8/lvlgu2ugu5qd6s2b`](https://www.yuque.com/for_lazy/thfiu8/lvlgu2ugu5qd6s2b)##
     (精华帖)(190 赞)保姆级 Lora 炼丹教程，一站式整合包，让你实现真人模特定制作者： 吴东子日期：2023-06-05《保姆级 Lora 炼丹教程，一站式整合包，让你实现真人模特定制》大家好，我是吴东子最近发现很多朋友学会了
