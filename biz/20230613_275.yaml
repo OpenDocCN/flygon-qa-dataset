@@ -1,4 +1,32 @@
-- summary: "-   本文介绍了稳定扩散（Stable Diffusion）的玩法及应用，包括作者对SD的认识和应用玩法框架，以及与midjourney的比较和案例讲解。\n\
+- answers: '-   对比 midjourney，stable diffusion 有什么优劣势？
+
+    -   stable diffusion 到底怎么玩？如何将玩法代入应用？
+
+    -   本篇主要内容是什么？
+
+    -   文中提到的 CN 是指什么？
+
+    -   6-3 商业落地部分是如何实现的？
+
+    -   LoRA 模型目前的商业应用情况如何？
+
+    -   为了更好地观感体验，烦请大家移步到哪里？
+
+    -   对比 midjourney，Stable Diffusion 的优劣势在文中有详细讨论。
+
+    -   Stable Diffusion 的玩法及其在应用中的代入方法在文中有案例逐一讲解。
+
+    -   本篇主要内容涵盖了对 Stable Diffusion 的学习经历、进阶玩法和案例应用等方面。
+
+    -   文中提到的 CN 指的是 SD 中的一个插件，全称为 ControlNet。
+
+    -   6-3 商业落地部分是通过 ControlNet 插件实现的人物换模特换背景等操作。
+
+    -   LoRA 模型目前尚无法商用，仅供参考。
+
+    -   为了更好地观感体验，请移步到飞书。'
+  questions: ''
+  summary: "-   本文介绍了稳定扩散（Stable Diffusion）的玩法及应用，包括作者对SD的认识和应用玩法框架，以及与midjourney的比较和案例讲解。\n\
     \    1.  作者分享了对SD的全面认识和应用玩法框架，希望能帮助读者打开思路，积累经验。\n    2.  文中对比了SD和midjourney的优劣势，以案例逐一讲解SD的玩法，展示不同的应用场景。\n\
     \    3.  评论区中有读者对文章内容的反馈，作者表示会修改部分内容以提高理解，同时补充了关于controlnet插件的说明。"
   text: '# 《Stable Diffuion 出图玩法及落地应用大全》> 原文：[`www.yuque.com/for_lazy/thfiu8/sqpxfaag3rc29sus`](https://www.yuque.com/for_lazy/thfiu8/sqpxfaag3rc29sus)##
