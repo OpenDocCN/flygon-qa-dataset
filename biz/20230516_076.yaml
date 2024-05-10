@@ -1,4 +1,33 @@
-- summary: "-   本文介绍了利用Colab和Stable Diffusion实现AI绘图的方法，可以实现云端、免费、自动、批量、无限AI出图。\n \
+- answers: '-   如何利用Colab和Stable Diffusion实现AI绘图？
+
+    -   可以通过利用Colab和Stable Diffusion实现云端、免费、自动、批量、无限AI出图。详情请参考[链接](https://zyb2zrrrem.feishu.cn/docx/Md2KdAjbDo0cdGxGMtncyb8CnLb)。
+
+    -   AI绘画技术在哪些领域可以应用？能否举例说明？
+
+    -   AI绘画技术可以应用于定制头像、模特换装、室内设计、教育培训等领域。例如，可以利用AI绘画技术进行定制头像生成、虚拟试衣间的建设、室内设计方案的快速生成等。
+
+    -   Midjourney和Stable Diffusion在AI绘图领域有何不同？它们各自的优缺点是什么？
+
+    -   Midjourney和Stable Diffusion是两种流行的AI绘图软件。Midjourney类似于自动档汽车，易于上手但功能较为有限；Stable
+    Diffusion则类似于手动档汽车，功能更为复杂但也更为灵活。优点是能够实现更高程度的定制化绘图，缺点是部署门槛较高，需要强大的硬件支持，并且需要一定的计算机知识。
+
+    -   Stable Diffusion在本地部署方面存在哪些挑战？需要哪些条件和知识？
+
+    -   Stable Diffusion在本地部署方面的挑战包括硬件要求高、需要一定的计算机知识、部署过程中可能遇到的问题难以解决等。需要条件包括强大的硬件支持，以及对计算机知识的一定了解。
+
+    -   对于使用Stable Diffusion进行AI绘图，如何才能有效地处理大量出图并进行筛选？
+
+    -   有效地处理大量出图并进行筛选可以通过自动化的方式来实现。可以编写脚本来批量生成图像，并利用一定的筛选算法或人工审核的方式对生成的图像进行筛选，以保留最优质的图像。'
+  questions: '-   如何利用Colab和Stable Diffusion实现AI绘图？
+
+    -   AI绘画技术在哪些领域可以应用？能否举例说明？
+
+    -   Midjourney和Stable Diffusion在AI绘图领域有何不同？它们各自的优缺点是什么？
+
+    -   Stable Diffusion在本地部署方面存在哪些挑战？需要哪些条件和知识？
+
+    -   对于使用Stable Diffusion进行AI绘图，如何才能有效地处理大量出图并进行筛选？'
+  summary: "-   本文介绍了利用Colab和Stable Diffusion实现AI绘图的方法，可以实现云端、免费、自动、批量、无限AI出图。\n \
     \   1.  AI绘画技术火爆，可用于定制头像、模特换装、室内设计等项目。\n    2.  Midjourney和Stable Diffusion是目前最流行的AI绘图软件，各有优缺点。\n\
     \    3.  Stable Diffusion在本地部署门槛较高，需要强大硬件和计算机知识，结果可能需要大量出图并人工筛选。"
   text: '# 《AI 绘画出图，喂饭式教程：利用 Colab 和 Stable Diffusion 实现》> 原文：[`www.yuque.com/for_lazy/thfiu8/zxn4s4wm2f7rsfkg`](https://www.yuque.com/for_lazy/thfiu8/zxn4s4wm2f7rsfkg)##
