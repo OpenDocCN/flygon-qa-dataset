@@ -1,4 +1,42 @@
-- summary: "-   作者分享了如何让ChatGPT帮助写爬虫的经验，介绍了自己的Python水平和实现过程，文章大纲包括为什么让ChatGPT帮忙写爬虫、如何调教ChatGPT并实现抓取、Prompt梳理和复盘总结。\n\
+- answers: '-   为什么作者选择让ChatGPT帮忙写爬虫？
+
+    -   作者如何调教ChatGPT并实现抓取？
+
+    -   在文章中提到的技能有哪些？
+
+    -   为什么作者要在飞书上分享全文？
+
+    -   为什么在评论区会有多条"没有权限"的信息？
+
+    -   作者是否解决了分享权限的问题？
+
+    -   作者是否在调整权限后更新了评论区的信息？
+
+    -   文章的链接是什么？
+
+    -   作者的文章获得了多少个赞？
+
+    -   作者的文章发布日期是什么时候？
+
+    -   作者选择让ChatGPT帮忙写爬虫是因为他自己的Python水平较低，基本写不出爬虫。
+
+    -   作者通过不停地捣鼓ChatGPT，并花费两天半时间，成功实现了让ChatGPT帮忙写爬虫。
+
+    -   文章提到的技能包括：如何让ChatGPT帮你写爬虫、如何在网页中定位&提取Class的标签和值、如何让ChatGPT帮你合并多个表头相同的Excel文件。
+
+    -   作者选择在飞书上分享全文，但在评论区出现了多条"没有权限"的信息，可能是由于分享设置问题导致的。
+
+    -   在评论区有多条"没有权限"的信息，可能是因为作者之前的分享权限设置有问题。
+
+    -   作者在评论区多次回复已调整权限，但没有具体说明是否解决了分享权限的问题。
+
+    -   文章的链接是：[https://c5b5kd78s1.feishu.cn/docx/W9bkdxL8Iouy7PxPFBMcSP9qnLh](https://c5b5kd78s1.feishu.cn/docx/W9bkdxL8Iouy7PxPFBMcSP9qnLh)
+
+    -   作者的文章获得了60个赞。
+
+    -   作者的文章发布日期是2023年3月20日。'
+  questions: ''
+  summary: "-   作者分享了如何让ChatGPT帮助写爬虫的经验，介绍了自己的Python水平和实现过程，文章大纲包括为什么让ChatGPT帮忙写爬虫、如何调教ChatGPT并实现抓取、Prompt梳理和复盘总结。\n\
     \    1.  作者分享了自己的Python水平和实现过程\n    2.  文章大纲包括为什么让ChatGPT帮忙写爬虫、如何调教ChatGPT并实现抓取、Prompt梳理和复盘总结\n\
     \    3.  读完文章可以学会如何让ChatGPT帮写爬虫、在网页中定位提取Class标签和值、合并多个表头相同的Excel文件。"
   text: '# 《 Python 小白如何调教 ChatGPT 写爬虫》> 原文：[`www.yuque.com/for_lazy/thfiu8/zdq6nrvrrytpqc60`](https://www.yuque.com/for_lazy/thfiu8/zdq6nrvrrytpqc60)##
