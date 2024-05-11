@@ -1,4 +1,22 @@
-- summary: "-   本文介绍了Llama2的发布和部署，以及其对大模型圈的影响。\n    1.  Llama2是Meta开源的大语言模型，为开源界带来繁荣。\n\
+- answers: '-   Llama2是Meta开源的一个大语言模型，对开源界的影响是促进了大模型在开源界的繁荣发展。
+
+    -   在Azure上架构Llama2使个人和企业能够部署私有模型，从而实现自己的定制和应用开发，无需依赖于GPT的接口或科学上网。
+
+    -   教程详细介绍了Llama2的背景介绍、实操部署和模型下载方案。
+
+    -   在选择模型参数和服务器配置方面，部署Llama2可能会面临显存需求较高、模型文件大小较大等挑战。
+
+    -   Llama2的发布和部署对大模型圈可能产生潜在影响，如推动私有模型的开发和定制，以及加速大模型技术的普及和应用。'
+  questions: '-   什么是Llama2？它是如何影响开源界的？
+
+    -   Llama2在Azure上的架构如何使个人和企业能够部署私有模型？
+
+    -   教程中的哪些方面详细介绍了如何部署Llama2？
+
+    -   在选择模型参数和服务器配置方面，部署Llama2可能会面临哪些挑战？
+
+    -   Llama2的发布和部署对大模型圈有哪些潜在影响？'
+  summary: "-   本文介绍了Llama2的发布和部署，以及其对大模型圈的影响。\n    1.  Llama2是Meta开源的大语言模型，为开源界带来繁荣。\n\
     \    2.  Llama2在Azure上架，使个人和企业可以部署私有模型。\n    3.  教程详细介绍了如何部署Llama2，包括选择模型参数和服务器配置。"
   text: '# 以 Llama2 为例，教你部署自己的私有大模型> 原文：[`www.yuque.com/for_lazy/thfiu8/vnq4w0y09bbb6r73`](https://www.yuque.com/for_lazy/thfiu8/vnq4w0y09bbb6r73)##
     (25 赞)以 Llama2 为例，教你部署自己的私有大模型作者： 小辉 AI 教练日期：2023-09-04## 一、背景介绍：一夜之间，AI 大模型圈变了天。Meta
@@ -14,7 +32,47 @@
     PyTorcha 就可以了，注意不能选最高版本，系统版本不支持，然后点击“立即创建”等个 1 分钟左右，就可以看到你的容器已经启动好了：![](img/8418574e2f4cb86dfad671a20e9942c3.png)接下来我们选择
     Jupyter，进入 ternimal 终端，可以开始部署操作了![](img/3005834b7f15637a60c70042d0d6e76a.png)1.  Text
     generation web UI 部署'
-- summary: "-   克隆 Text generation web UI 仓库到服务器，并安装环境和依赖。\n    1.  安装 Conda\n   \
+- answers: '-   如何在服务器上克隆 Text generation web UI 仓库并安装环境和依赖？
+
+    -   在服务器上，首先需要克隆 Text generation web UI 仓库到本地。然后，按照官方文档的指引，安装所需的环境和依赖。
+
+    -   在安装 Conda 后，如何创建 conda 环境并安装所需的依赖？
+
+    -   安装 Conda 后，可以通过以下步骤创建一个 conda 环境：
+
+    -   在下载模型并安装到 models 目录下时，应该遵循哪些步骤？
+
+    -   下载模型并安装到 models 目录下时，需要注意以下步骤：
+
+    -   如何下载 Meta 官方模型并获取所需的 key？
+
+    -   要下载 Meta 官方模型并获取所需的 key，需要在 Meta 官方网站上填写申请表格。稍后，他们会将下载所需的 key 发送到您的邮箱中。
+
+    -   当下载 TheBloke 大佬转换的模型文件时，应该注意哪些细节？
+
+    -   下载 TheBloke 大佬转换的模型文件时，应注意以下细节：
+
+    -   如何使用 Hugging Face Hub 下载模型？
+
+    -   使用 Hugging Face Hub 下载模型，可以按照以下步骤进行：
+
+    -   在启动 UI 并将模型映射到"TheBloke_Llama-2-70B-GPTQ"时，需要执行哪些步骤？
+
+    -   在启动 UI 并将模型映射到"TheBloke_Llama-2-70B-GPTQ"时，需要执行以下步骤：'
+  questions: '-   如何在服务器上克隆 Text generation web UI 仓库并安装环境和依赖？
+
+    -   在安装 Conda 后，如何创建 conda 环境并安装所需的依赖？
+
+    -   在下载模型并安装到 models 目录下时，应该遵循哪些步骤？
+
+    -   如何下载 Meta 官方模型并获取所需的 key？
+
+    -   当下载 TheBloke 大佬转换的模型文件时，应该注意哪些细节？
+
+    -   如何使用 Hugging Face Hub 下载模型？
+
+    -   在启动 UI 并将模型映射到"TheBloke_Llama-2-70B-GPTQ"时，需要执行哪些步骤？'
+  summary: "-   克隆 Text generation web UI 仓库到服务器，并安装环境和依赖。\n    1.  安装 Conda\n   \
     \ 2.  创建 conda 环境并安装依赖\n    3.  下载模型并安装到 models 目录下\n-   下载 Meta 官方模型需申请 key，转换\
     \ huggingface 格式模型或下载已转换模型文件。\n    1.  下载 TheBloke 大佬转换的模型文件\n    2.  使用 Hugging\
     \ Face Hub 下载模型\n-   启动 UI，将模型映射到\"TheBloke_Llama-2-70B-GPTQ\"。"
