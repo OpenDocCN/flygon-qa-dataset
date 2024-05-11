@@ -85,7 +85,35 @@
     下运行，默认使用的是 huggingface 格式的模型，因此我们需要一次格式转换操作，或者使用已经转换好的模型文件，这里我们直接使用 TheBloke 大佬转换好的模型文件，在
     huggingface 上可以直接下载，下面是各个版本的链接：1.  [`huggingface.co/TheBloke/Llama-2-70B-chat-GPTQ`](https://huggingface.co/TheBloke/Llama-2-70B-chat-GPTQ)2.  [`huggingface.co/TheBloke/Llama-2-70B-GPTQ`](https://huggingface.co/TheBloke/Llama-2-70B-GPTQ)3.  [`huggingface.co/TheBloke/Llama-2-13B-chat-GPTQ`](https://huggingface.co/TheBloke/Llama-2-13B-chat-GPTQ)4.  [`huggingface.co/TheBloke/Llama-2-13B-GPTQ`](https://huggingface.co/TheBloke/Llama-2-13B-GPTQ)5.  [`huggingface.co/TheBloke/Llama-2-7b-Chat-GPTQ`](https://huggingface.co/TheBloke/Llama-2-7b-Chat-GPTQ)6.  [`huggingface.co/TheBloke/Llama-2-7B-GPTQ`](https://huggingface.co/TheBloke/Llama-2-7B-GPTQ)##
     Hugging Face Hub 模型下载方案（优雅，强烈推荐）1.  启动 UI：这行启动命令的意思是把模型映射到“TheBloke_Llama-2-70B-GPTQ”，
-- summary: "-   监听 6006 端口，启动 AutoDL 的自定义服务，通过浏览器访问 UI，加载 70B 模型，成功后可与 Llama2 对话，切换到聊天模式。\n\
+- answers: '-   如何监听 6006 端口并启动 AutoDL 的自定义服务？
+
+    -   启动命令为 `python -m tensorboard.main --logdir runs --host 0.0.0.0 --port 6006`。
+
+    -   在浏览器中如何访问 UI 以加载 70B 模型？
+
+    -   在浏览器中输入服务器的 IP 地址或域名，加上端口号 6006，例如 `http://your_server_ip:6006`。
+
+    -   如何确保加载 70B 模型成功后可以与 Llama2 对话？
+
+    -   界面显示“Successfully”即表示模型加载成功，然后在主界面选择加载的 70B 模型，即可开始与 Llama2 对话。
+
+    -   切换到聊天模式如何改善对话交互体验？
+
+    -   在界面上切换到聊天模式，这样可以更加接近自然的对话交互，提高用户体验。
+
+    -   Text generation web UI 是如何提供定制角色功能和支持多个开源模型的？
+
+    -   可以通过界面上的选项来定制角色的性格等，同时将各个开源模型下载到 models 文件夹下，在界面上切换模型即可实现支持多个模型的功能。'
+  questions: '-   如何监听 6006 端口并启动 AutoDL 的自定义服务？
+
+    -   在浏览器中如何访问 UI 以加载 70B 模型？
+
+    -   如何确保加载 70B 模型成功后可以与 Llama2 对话？
+
+    -   切换到聊天模式如何改善对话交互体验？
+
+    -   Text generation web UI 是如何提供定制角色功能和支持多个开源模型的？'
+  summary: "-   监听 6006 端口，启动 AutoDL 的自定义服务，通过浏览器访问 UI，加载 70B 模型，成功后可与 Llama2 对话，切换到聊天模式。\n\
     \    1.  加载 70B 模型成功后可与 Llama2 对话\n    2.  切换到聊天模式改善对话交互体验\n    3.  定制角色性格等功能，支持多个开源模型切换\n\
     -   Text generation web UI 提供定制角色功能，支持多个开源模型，下载到 models 文件夹并在界面上切换模型，飞书和视频教程链接提供。\n\
     \    1.  定制角色性格等功能\n    2.  支持多个开源模型下载和切换\n    3.  提供飞书和视频教程链接"
