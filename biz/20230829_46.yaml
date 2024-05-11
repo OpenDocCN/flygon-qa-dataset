@@ -1,4 +1,32 @@
-- summary: "-   海外工具站必备的域名选择和技术选型指南\n    1.  域名的作用对于谷歌 SEO 影响排名，关键词重要\n    2.  域名注意点：com/net/org/edu，避免连字符，注意域名年龄\n\
+- answers: '-   域名的作用对于谷歌 SEO 影响排名，关键词重要。
+
+    -   域名注意点：com/net/org/edu，避免连字符，注意域名年龄。
+
+    -   如何挑选域名：参考竞品关键词，使用在线工具找灵感，检测是否有黑历史。
+
+    -   工具型建议自建，内容型使用 Wordpress/Hexo/Nextra。
+
+    -   服务器选型：内容型推荐 github page/vercel，工具型使用厂商服务器。
+
+    -   谷歌 SEO 技术维度：使用插件进行技术分析，优化页面速度。
+
+    -   关键词的重要性对于谷歌 SEO 影响排名，域名中的关键词是谷歌 SEO 匹配的一个重要因素。
+
+    -   在选择域名时，需要考虑避免使用连字符、选择合适的顶级域名，以及检查域名的历史情况和是否被谷歌拉黑，以确保不影响网站的排名和用户体验。
+
+    -   当挑选域名时，我们应该参考竞品的关键词，并使用在线工具找到更多合适的关键词，同时注意域名是否容易记忆，是否存在语法错误，以及与品牌和关键词的相关性。
+
+    -   针对工具型网站，建议自建技术，而对于内容型网站，推荐使用 Wordpress、Hexo 或 Nextra 等框架。对于内容型网站的服务器选型，推荐使用
+    github page 或 vercel，因其适用于静态内容的托管和部署。
+
+    -   在谷歌 SEO 的技术维度上，可以使用插件如 wappalyzer、GTmetrix 和谷歌官方 pagespeed 进行技术分析，以了解页面加载速度等问题，并根据分析结果进行优化。'
+  questions: "-   海外工具站必备的域名选择和技术选型指南\n    1.  域名的作用对于谷歌 SEO 影响排名，关键词重要\n    2.  域名注意点：com/net/org/edu，避免连字符，注意域名年龄\n\
+    \    3.  如何挑选域名：参考竞品关键词，使用在线工具找灵感，检测是否有黑历史\n-   技术选型\n    1.  工具型建议自建，内容型使用 Wordpress/Hexo/Nextra\n\
+    \    2.  服务器选型：内容型推荐 github page/vercel，工具型使用厂商服务器\n    3.  谷歌 SEO 技术维度：使用插件进行技术分析，优化页面速度\n\
+    -   对于海外工具站的域名选择，关键词的重要性对于谷歌 SEO 有何影响？\n-   在选择域名时，有哪些注意点需要考虑，以避免影响网站的排名和用户体验？\n\
+    -   当挑选域名时，我们应该参考哪些方面的竞品关键词？并且使用在线工具时，我们应该寻找哪些灵感？\n-   针对工具型和内容型网站，你会推荐哪些不同的技术选型？并且针对内容型网站的服务器选型有何建议？\n\
+    -   在谷歌 SEO 的技术维度上，你会如何使用插件进行页面的技术分析以优化网站的速度？"
+  summary: "-   海外工具站必备的域名选择和技术选型指南\n    1.  域名的作用对于谷歌 SEO 影响排名，关键词重要\n    2.  域名注意点：com/net/org/edu，避免连字符，注意域名年龄\n\
     \    3.  如何挑选域名：参考竞品关键词，使用在线工具找灵感，检测是否有黑历史\n-   技术选型\n    1.  工具型建议自建，内容型使用 Wordpress/Hexo/Nextra\n\
     \    2.  服务器选型：内容型推荐 github page/vercel，工具型使用厂商服务器\n    3.  谷歌 SEO技术维度：使用插件进行技术分析，优化页面速度"
   text: '# 海外工具站必备的域名选择和技术选型指南> 原文：[`www.yuque.com/for_lazy/thfiu8/ue7gavp5syaw9rtr`](https://www.yuque.com/for_lazy/thfiu8/ue7gavp5syaw9rtr)##
@@ -15,7 +43,31 @@
     ([`vercel.com/`](https://vercel.com/))2.  工具型：厂商基本都行，Google Cloud 、AWS 乃至阿里云海外机房小技巧，我会配合搞：自建工具用厂商服务器，其对应的
     /blog 路径用上面的### **「谷歌 SEO」****技术维度**：1.  wappalyzer 插件：竞品技术选型分析2.  GTmetrix：[`gtmetrix.com/`](https://gtmetrix.com/)3.  谷歌官方
     pagespeed ：'
-- summary: "-   开发者可以使用不同工具来优化网页内容，如DeepL翻译、Copyscape原创度检测、Quetext抄袭检查器和Grammarly语法检查器。\n\
+- answers: '-   对于谷歌 SEO 来说，域名是一个影响排名的因素，其中域名中的关键词是作为谷歌 SEO 匹配的一个点。
+
+    -   顶级域名建议使用 com / net / org / edu，其中以 com 为主，net 为辅，避免使用连字符，并注意域名的年龄等因素。
+
+    -   新手建议不要使用二手域名，挑选新域名时可以参考竞品的域名，进行关键词研究并使用在线工具找到灵感。
+
+    -   挑选域名时需注意几个点，如好记、没有语法错误、与品牌词和关键词相关。
+
+    -   检查域名是否有黑历史可以使用 web.archive.org 查询历史情况，或使用国内的桔子 SEO，也可以通过 ahrefs 或 semrush
+    查看外链情况，以及使用 transparencyreport.google.com/safe-browsing/search 检测是否被谷歌拉黑。
+
+    -   在购买域名时，推荐使用 namecheap、namesilo 和 godaddy，并注意购买匿名隐私保护。
+
+    -   在建站和 SEO 工具选型方面，建议根据站点类型选择合适的工具和框架，如自建内容型网站可使用 Wordpress、Hexo、Nextra 等框架。
+
+    -   对于服务器选型，内容型或纯 HTML 的站点可以考虑使用 github page、vercel 或 Cloudflare Pages，而工具型站点则可以选择
+    Google Cloud、AWS 或阿里云等海外机房。
+
+    -   在谷歌 SEO 方面，可以使用各种技术维度和内容维度的工具和插件进行分析和优化，如 wappalyzer、GTmetrix、谷歌官方 pagespeed、DeepL、copyscape、quetext、grammarly
+    等。
+
+    -   此外，还可以使用各种 SEO 建设维度的工具和插件，如小排老师的工具 KeywordSea、similarweb、Keywords Everywhere、MozBar、Detailed
+    SEO Extension、ahrefs 等。'
+  questions: ''
+  summary: "-   开发者可以使用不同工具来优化网页内容，如DeepL翻译、Copyscape原创度检测、Quetext抄袭检查器和Grammarly语法检查器。\n\
     \    1.  使用KeywordSea、similarweb、Keywords Everywhere、MozBar、Detailed SEO Extension等工具进行SEO建设。\n\
     \    2.  Cloudflare Pages是一个好选择，提供DNS加速和免费SSL证书，Google检查结果为\"No available data\"\
     表示未被拉黑。\n    3.  其他评论区用户推荐使用Vercel等工具进行网页优化。"
