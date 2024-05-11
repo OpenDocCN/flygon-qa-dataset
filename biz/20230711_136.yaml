@@ -1,4 +1,22 @@
-- summary: "-   SD工具的实操方法和案例应用分享\n    1.  介绍SD工具的应用案例和具体实操\n    2.  绘图工具的选择和使用技巧\n\
+- answers: '-   选择适合的绘图工具可以优先考虑自己熟悉的方式，能更好更快地实现预期目标，比如Stable diffusion webUI。
+
+    -   SD工具的优势在实际案例操作中体现在开源、免费、丰富的插件和预处理器，比如可以通过ControlNet插件实现对图片的预处理，满足用户需求。
+
+    -   一个SD工具应用案例是通过AI绘图制作外包装，如帆布袋、T恤、商品外包装、宣传广告等，具体实操包括在网页上写描述词、生成图片、发给商家制作等简单操作。
+
+    -   SD工具的实际应用中，常见的使用技巧包括选择合适的模型和描述词、结合ControlNet预处理器进行图像处理、重绘幅度的合理设置等，可以提高操作效率。
+
+    -   在SD工具的实际案例操作中，可能遇到的挑战包括面部修复、重绘幅度的选择、真人转动漫的操作技巧等，可以通过多次尝试、调整参数来解决。'
+  questions: '-   如何选择适合的绘图工具来支持SD工具的实操？
+
+    -   SD工具的优势在实际案例操作中体现在哪些方面？
+
+    -   你能分享一些SD工具应用案例和具体实操的经验吗？
+
+    -   在SD工具的实际应用中，有哪些常见的使用技巧可以提高效率？
+
+    -   SD工具在实际案例操作中可能遇到的挑战有哪些，如何应对？'
+  summary: "-   SD工具的实操方法和案例应用分享\n    1.  介绍SD工具的应用案例和具体实操\n    2.  绘图工具的选择和使用技巧\n\
     \    3.  SD工具的优势和实际案例操作"
   text: '# SD 工具的实操方法和案例应用分享> 原文：[`www.yuque.com/for_lazy/thfiu8/op6l0gxboa9mmt49`](https://www.yuque.com/for_lazy/thfiu8/op6l0gxboa9mmt49)##
     (69 赞)SD 工具的实操方法和案例应用分享作者： 大刘日期：2023-06-285 月 30 日《SD 工具的实操方法和案例应用分享》@大刘一、自我介绍大家好呀，我是大刘～
@@ -13,7 +31,23 @@
     的优势是什么呢？开源、免费，可以在自己电脑或者云服务器安装使用。因为开源，所以有特别丰富的插件，其中最出圈的就是 ControlNet 插件，它可以让我们把图片经过不同的预处理，加上对应的模型和描述词，就能大概率达到我们想要的效果。无图无真相，下面就以用户的需求出发，跟大家一起看一下是怎么通过
     SD 满足用户的需求。四、实际案例操作4.1 AI 图片+实物包装线下很多服装，产品的外包装是需要图片的。去年，天辉老师有和我提到，可以选择一张自己喜欢的画，他可以帮我放到帆布袋上面，这也是我第一次接触到
     AI 绘画实际运用到现实的案例。我当时选的这张图：![](img/7464732e03d1b44bce5e80b6d3a92ab3.png)描述词：'
-- summary: "-   一幅美丽的画作展示了一个充满樱花、桥梁、云彩、日落、童话、远方小镇、光效和梦幻的建筑，由Josan Gonzalez在artstation上制作。这幅画作是通过使用AI绘图软件完成的，制作过程简单，只需描述词生成图片并发送给商家制作。\n\
+- answers: '-   SD 工具的优势是什么？
+
+    -   SD 的简介是什么？
+
+    -   实际案例中提到的技术工具是哪些？
+
+    -   实际案例中的操作步骤是怎样的？
+
+    -   SD 工具的优势是开源、免费，可以在个人电脑或云服务器上使用。
+
+    -   SD 的简介提到了它是一个模型，具体表现为 Stable diffusion webUI，是一个开发出的方便操作的UI页面。
+
+    -   实际案例中提到的技术工具包括 SD 和 ControlNet 插件。
+
+    -   实际案例中的操作步骤包括使用图生图+ControlNet来实现图像处理，其中需要选择合适的模型和参数进行微调。'
+  questions: ''
+  summary: "-   一幅美丽的画作展示了一个充满樱花、桥梁、云彩、日落、童话、远方小镇、光效和梦幻的建筑，由Josan Gonzalez在artstation上制作。这幅画作是通过使用AI绘图软件完成的，制作过程简单，只需描述词生成图片并发送给商家制作。\n\
     \    1.  画作包括帆布袋、T恤、商品包装、宣传广告等，可以使用相同的方法制作。\n    2.  另一个示例是如何使用Stable diffusion\
     \ webUI制作火爆的头像，将照片转换为二次元或二次元转换为照片。\n    3.  使用图生图+ControlNet进行线稿处理，可以实现动漫转真人或真人转动漫的效果，需要注意面部修复和重绘幅度设置。\n\
     -   通过使用Stable diffusion webUI的图生图+ControlNet进行线稿处理，可以实现动漫转真人或真人转动漫的效果。具体操作包括将图片放入图生图位置，设置图片尺寸，切换大模型，写描述词，选择ControlNet预处理器和处理模型。\n\
@@ -29,7 +63,15 @@
     0.6-0.9，有概率与参考图差距过大，需要多出几次图，然后选合适的；想要更加精细可采用小步多次重绘，就是重绘幅度每次设置 0.2，生成一张图片后，其他都不变，把生成的图片放入图生图的参考位置，继续
     0.2，如此多次重复，也可以达到想要的效果，3 次元转 2次元 也是如此。![](img/5e19b25de146e696b7da72c2c73a867c.png)![](img/4068070a35dc254c2f7c55a22f5ae258.png)再以
     17 号看到圈友在风向标发布的一条信息，
-- summary: "-   通过复现韩愈的照片，展示了图像生成技术的应用。\n    1.  使用不同描述词和操作还原韩愈的照片，生成类似但不完全相同的图像。\n\
+- answers: "-   通过复现韩愈的照片，展示了图像生成技术的应用。\n    1.  使用不同描述词和操作还原韩愈的照片，生成类似但不完全相同的图像。\n\
+    \    2.  描述了生成韩愈照片的具体步骤和模型选择。\n    3.  展示了通过图生成技术生成新生儿照片的过程和细节。\n-   图像生成技术如何应用于复现韩愈的照片？\n\
+    -   在生成韩愈照片的过程中，有哪些描述词和操作被使用了？这些如何影响最终的图像？\n-   生成韩愈照片的具体步骤是什么？使用了哪些模型？这些模型的选择有何特殊原因？\n\
+    -   通过图生成技术生成新生儿照片的过程和细节是什么？与复现韩愈照片的过程有何异同？\n-   对于图像生成技术在艺术和医学领域的应用，有哪些潜在的未来发展方向和挑战？"
+  questions: "-   通过复现韩愈的照片，展示了图像生成技术的应用。\n    1.  使用不同描述词和操作还原韩愈的照片，生成类似但不完全相同的图像。\n\
+    \    2.  描述了生成韩愈照片的具体步骤和模型选择。\n    3.  展示了通过图生成技术生成新生儿照片的过程和细节。\n-   图像生成技术如何应用于复现韩愈的照片？\n\
+    -   在生成韩愈照片的过程中，有哪些描述词和操作被使用了？这些如何影响最终的图像？\n-   生成韩愈照片的具体步骤是什么？使用了哪些模型？这些模型的选择有何特殊原因？\n\
+    -   通过图生成技术生成新生儿照片的过程和细节是什么？与复现韩愈照片的过程有何异同？\n-   对于图像生成技术在艺术和医学领域的应用，有哪些潜在的未来发展方向和挑战？"
+  summary: "-   通过复现韩愈的照片，展示了图像生成技术的应用。\n    1.  使用不同描述词和操作还原韩愈的照片，生成类似但不完全相同的图像。\n\
     \    2.  描述了生成韩愈照片的具体步骤和模型选择。\n    3.  展示了通过图生成技术生成新生儿照片的过程和细节。"
   text: '我们尝试复现，原理是一样的：![](img/956148107c766b1cbc9bd1edd47814cc.png)网上随机找了张韩愈的照片，用上面方式还原了下，大部分还是比较像的，类似这种可以不用完全一样，流量会更好一点：![](img/2cc02be46f1c467825c4ade3ab24fbf8.png)![](img/e1fd94a77f947fb5c7f0927230f5984d.png)上述还原韩愈的描述词与操作如下：正
     tag：（Best quality， masterpiece），ultra high res， （photorealistic）， raw photo，1
@@ -45,7 +87,21 @@
     bulb, highlighting the baby''s features. The photo has no black borders, providing
     a full view of the baby and its surroundings.重绘幅度：0.6Steps: 31采样器： DPM++ 2M Karras![](img/8d721eb259f984689c8f800c0a70996c.png)通过上述几个案例，大家有没有发现，其实这些都是图生图+ControlNet，主要就是模型的选择和些许参数的微调。总结下来就是想把一个图片换成另一种风格，SD
     的图生图可以帮我们完成。MJ 也是可以的，这里不赘述。所以从技术上来说，实现一个功能并不难，'
-- summary: '-   技术只需用来出图，不必深究，ControlNet 更新重要，建议更新插件。预处理器将参考图解析成模板，影响图片生成过程。模仿爆款图片风格需选择对应模型，大模型和lora模型常用于决定整体画风。'
+- answers: "-   如何将技术应用于图像生成？\n    -   技术应用于图像生成可以通过使用图像生成模型和相关插件，如ControlNet，来实现。这些技术包括选择合适的模型、调整参数以及使用预处理器等步骤，从而生成具有特定风格和特征的图像。\n\
+    -   ControlNet 的更新为何如此重要？\n    -   ControlNet的更新对于图像生成技术至关重要，因为它不仅影响着模型的性能和效果，还包括预处理器等相关组件的更新。这些更新可以改善图像生成的质量、速度和稳定性，使用户能够获得更好的体验和结果。\n\
+    -   插件的更新对预处理器有何影响？\n    -   插件的更新通常会对预处理器产生影响，因为预处理器是插件中的重要组件之一，它负责将上传的参考图通过不同的处理方式解析成不同的模板，从而影响最终图像的生成效果。因此，插件的更新可能会引入新的预处理器选项或改进现有的预处理器，从而影响图像生成的过程和结果。\n\
+    -   如何选择适合模仿爆款图片风格的模型？\n    -   选择适合模仿爆款图片风格的模型通常需要考虑两个关键因素：大模型和lora模型。大模型决定了图片的整体画风，而lora模型则针对某个人物或特定风格进行训练，可以提供更加细致的效果。因此，根据目标图片的特征和风格选择相应的大模型和lora模型是选择适合模仿的关键。\n\
+    -   大模型和lora模型在决定整体画风方面有何不同之处？\n    -   大模型和lora模型在决定整体画风方面有着不同的作用。大模型主要决定了图片的整体风格和特征，而lora模型则在大模型的基础上针对某个人物或特定风格进行了更深层次的训练，可以提供更加细致和专业的效果。因此，大模型和lora模型在决定整体画风方面的不同之处在于前者更加宏观，后者更加微观和个性化。"
+  questions: '-   如何将技术应用于图像生成？
+
+    -   ControlNet 的更新为何如此重要？
+
+    -   插件的更新对预处理器有何影响？
+
+    -   如何选择适合模仿爆款图片风格的模型？
+
+    -   大模型和lora模型在决定整体画风方面有何不同之处？'
+  summary: '-   技术只需用来出图，不必深究，ControlNet 更新重要，建议更新插件。预处理器将参考图解析成模板，影响图片生成过程。模仿爆款图片风格需选择对应模型，大模型和lora模型常用于决定整体画风。'
   text: 大家最主要的还是优先考虑怎么变现，我们需要的技术只是用来出图，知道大概原理就行。不用深究里面的门道，等真的有需要的时候再花时间研究也不迟。五、ControlNet
     更新因为 SD 的一大核心就是这个插件，所以单独拎出来讲，建议大家更新，如果你用的秋叶的启动器，点击这里更新：![](img/18236b9ee4d872f2bdd0859889ee1860.png)如果你用的星空的包或者其他人的安装包，可以进入
     ControlNet 文件夹下面，空白地方右击—>选择 Git Bash Here—>回车—>输入 git pull  即可更新。这个额外添加进来是因为最近它又又又更新了，不光是模型，还有预处理器，在航海手册上有模型的解释，大家可以查看章节「5.7
@@ -55,7 +111,21 @@
     模型的选择好，到这里我们基本能简单明白出图，那如果我看到有比较好的风格图片，想模仿，应该怎么模仿呢？答案就是找到对应的模型。比如小红书上半个月爆火的治愈系图片：![](img/8ab6edff8c4a5508ff88cfbe6da93b08.png)这个图片底模用的是
     revAnimated_v11，两个 lora 模型，墨心+吉卜力模型我们常用的就是大模型和 lora 模型，大模型是决定你图片的整体画风，lora 模型是在大模型的基础上，特别针对某个人物或者风格训练的模型。一位经常使用
     SD 的玩家，通常会有一系列的模型，根据不同的使用场景来切换。这边推荐几个个人觉得用的还不错的。3D 现实大模型：
-- summary: "-   ChilloutMix, Realistic Vision V2.0, majicMIX realistic等模型链接提供\n  \
+- answers: "-   如何选择适合不同风格需求的模型？\n    -   可以选择适合不同风格需求的模型，比如大模型和lora模型，根据不同的使用场景来切换。\n\
+    -   有哪些特定风格模型链接可供选择，例如盲盒、吉卜力、汉服等？\n    -   特定风格模型链接可供选择，包括盲盒、吉卜力、汉服等，分别对应不同链接。\n\
+    -   模型切换和底模刷新的方法是什么？如何使用lora？\n    -   模型切换和底模刷新的方法是在左上角选择，右边圈圈刷新；lora的使用方法可参考给定图片演示。\n\
+    -   推荐的抠图软件有哪些？为什么推荐使用美图秀秀和佐糖网页版？\n    -   推荐的抠图软件包括美图秀秀和佐糖网页版，因为它们简单易用，能解决问题。\n\
+    -   佐糖网页版的抠图方法和工具选择建议是什么？\n    -   佐糖网页版的抠图方法是上传图片后自动抠图，下载保存；工具选择建议简单易用，因为能解决问题。"
+  questions: '-   如何选择适合不同风格需求的模型？
+
+    -   有哪些特定风格模型链接可供选择，例如盲盒、吉卜力、汉服等？
+
+    -   模型切换和底模刷新的方法是什么？如何使用lora？
+
+    -   推荐的抠图软件有哪些？为什么推荐使用美图秀秀和佐糖网页版？
+
+    -   佐糖网页版的抠图方法和工具选择建议是什么？'
+  summary: "-   ChilloutMix, Realistic Vision V2.0, majicMIX realistic等模型链接提供\n  \
     \  1.  提供多种模型选择，适用于不同风格需求\n    2.  提供盲盒、吉卜力、汉服等特定风格模型链接\n    3.  提供模型切换和底模刷新方法，以及lora的使用说明\n\
     -   抠图需求解决方法\n    1.  推荐使用美图秀秀、佐糖网页版等抠图软件\n    2.  重点在于选择熟悉的工具解决问题\n    3.  以佐糖网页版为例介绍抠图方法和工具选择建议"
   text: 'ChilloutMix: https://civitai.com/models/6424?modelVersionId=11745Realistic
@@ -69,7 +139,50 @@
     模型的切换底模的切换点左上角就可以选择，右边这个圈圈是刷新，当你新下载了一个模型放进去，不用重启，刷新这里就行。![](img/955f8ea4aaae4088af4100560783755a.png)lora
     的使用：![](img/0e6876e9553f870c5db49e81453cd097.png)![](img/3cbe308fcf5a669be988c53d969f0a77.png)七、抠图考虑到会有伙伴是需要把图片放到物品上，会有抠图的需求，这里加一个抠图的使用。如果不会
     PS，觉得学起来需要一定的时间和精力，那就用其他的抠图软件，美图秀秀、佐糖网页版、可画、即时设计、master go 等等，用什么不重要，重要的是找你熟悉的能解决问题就行。这里拿佐糖网页版举例吧，'
-- summary: "-   网页版免费，简单抠图工具，上传图片后自动跳转下载页面，下载图片需等待进度条到100%，保存文件。建议制作成品图片，结合产品展示。具体操作可查看航海手册章节7.2。\n\
+- answers: '-   The web version of the tool offers free usage, and users can upload
+    images through a simple process. For example, with the web version of the tool,
+    such as Zutang''s web version, users can upload images easily by visiting the
+    provided link and following the instructions. Once the image is uploaded, the
+    tool automatically processes it, and users can download the edited image when
+    the process is completed.
+
+    -   To effectively utilize the tool for creating finished images and integrating
+    them with product displays, the recommended approach involves using familiar editing
+    software like Zutang''s web version. After uploading the image, users can manipulate
+    it according to their needs, such as combining it with product displays like packaging
+    bags or cups, providing users with a more intuitive understanding of the final
+    product.
+
+    -   Chapter 7.2 of the Nautical Manual details specific steps for operating the
+    tool, including uploading images, utilizing editing features, and downloading
+    the finished product. It''s suggested to refer to this chapter for a comprehensive
+    understanding of the tool''s functionalities and operation.
+
+    -   There might be a slight waiting time involved in downloading images after
+    uploading them to the tool''s platform, depending on the processing speed and
+    the complexity of the edits. However, the wait is generally minimal, and users
+    can expect to download the edited images promptly once the processing is complete.
+
+    -   Key features that differentiate this tool from others include its user-friendly
+    interface, efficient processing speed, diverse editing options, and the ability
+    to seamlessly integrate edited images with product displays. Additionally, the
+    availability of both free and paid versions, along with its compatibility with
+    various devices, adds to its appeal.'
+  questions: '-   How does the web version of the tool function in terms of its free
+    usage and the process of uploading images?
+
+    -   What is the recommended approach for utilizing the tool effectively in terms
+    of creating finished images and integrating them with product displays?
+
+    -   Could you elaborate on the specific steps outlined in Chapter 7.2 of the Nautical
+    Manual regarding the operation of this tool?
+
+    -   Is there any particular waiting time involved in downloading images after
+    uploading them to the tool''s platform?
+
+    -   What are the key features of this tool that differentiate it from other similar
+    image editing tools available online?'
+  summary: "-   网页版免费，简单抠图工具，上传图片后自动跳转下载页面，下载图片需等待进度条到100%，保存文件。建议制作成品图片，结合产品展示。具体操作可查看航海手册章节7.2。\n\
     \    1.  网页版免费，上传图片后自动跳转下载页面，保存文件。\n    2.  建议制作成品图片，结合产品展示。\n    3.  具体操作可查看航海手册章节7.2。"
   text: '网页版免费（第一次需要登录），简单的抠图够用：https://picwish.cn/![](img/b60d8bee87586d6f09ee5e9c8b522113.png)在这个页面，图片放上去：![](img/6106576408d8e7e770c562405bf5d31b.png)会自动跳转到这个页面，下载图片![](img/dc7cbdf9dc59b94c7171816732662e5d.png)注意，这个页面的立即下载依旧不用管，下面进度条到
     100%以后会弹出这个文件的保存框，自己选地方保存就行了：![](img/1eb472f5721be18d431bd773d5d42bb2.png)实际上到这儿差不多就结束了，但是如果是你需要自己发布到平台引流，那建议出个成品图片，就是把图片和产品结合的图片也一起放上去。可以给用户有更加直观的感受。比如把这个图片加到包装袋上面，杯子上面等等，可以自由发挥～![](img/ecbc4075d7442da55670e4f1160b03eb.png)![](img/54e9b79842e73bb509145b8514d39f8f.png)这个网址具体实操可以看航海手册章节
