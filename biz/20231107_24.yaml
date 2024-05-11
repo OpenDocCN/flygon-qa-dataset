@@ -1,4 +1,37 @@
-- summary: "-   2023 年新号关注数大于 5000 的用户分析报告作者： 钱塘江鲤日期：2023-10-31\n    1.  分享了在推特上与海外产品和\
+- answers: '-   钱塘江鲤 authored the analysis report on users with over 5000 followers
+    in the new issue in 2023, focusing on Twitter and AI-related tweets.
+
+    -   The method utilized to gather user information and evaluate tweet content
+    in the analysis involved the use of GPT-4 and Claude to analyze existing tweets
+    and user associations.
+
+    -   In the analysis of accounts in the AI sector that registered in 2023 and gained
+    over 5000 followers within 10 months, specific aspects of user information such
+    as tweet content, user engagement patterns, and follower growth were examined.
+
+    -   The author employed GPT-4 and Claude in the analysis of Twitter users and
+    tweet content by generating user reports and evaluating tweet content for AI-related
+    themes and engagement metrics.
+
+    -   Insights drawn from the analysis of users with over 5000 followers in the
+    AI sector in 2023 included patterns of engagement, prevalent themes in AI-related
+    tweets, and potential indicators of influential accounts in the AI community.'
+  questions: '-   Who authored the analysis report on users with over 5000 followers
+    in the new issue in 2023, focusing on Twitter and AI-related tweets?
+
+    -   What method was utilized to gather user information and evaluate tweet content
+    in the analysis?
+
+    -   What specific aspects of user information were examined in the analysis of
+    accounts in the AI sector that registered in 2023 and gained over 5000 followers
+    within 10 months?
+
+    -   How did the author employ GPT-4 and Claude in the analysis of Twitter users
+    and tweet content?
+
+    -   What insights or conclusions were drawn from the analysis of users with over
+    5000 followers in the AI sector in 2023?'
+  summary: "-   2023 年新号关注数大于 5000 的用户分析报告作者： 钱塘江鲤日期：2023-10-31\n    1.  分享了在推特上与海外产品和\
     \ AI 分享有关推文时沉淀的用户信息\n    2.  使用 GPT-4 和 Claude 分析推特用户信息和评估推文内容\n    3.  分析了2023年注册并在10个月内涨粉超过5000的AI方向账号。"
   text: '# 2023 年新号关注数大于 5000 的用户分析报告> 原文：[`www.yuque.com/for_lazy/thfiu8/em6pooa9lin9dkco`](https://www.yuque.com/for_lazy/thfiu8/em6pooa9lin9dkco)##
     (30 赞)2023 年新号关注数大于 5000 的用户分析报告作者： 钱塘江鲤日期：2023-10-31前一段时间分享了我在抓取推特上与海外产品和 AI
