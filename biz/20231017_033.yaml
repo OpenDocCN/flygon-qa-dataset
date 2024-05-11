@@ -1,4 +1,22 @@
-- summary: "-   Stable Diffusion 生成数字人视频实操教程，解锁流量密码\n    1.  小辉 AI 教练分享了 SD 生成数字人的方法，尝试了多种方案并总结经验。\n\
+- answers: '-   通过飞书和语雀可以学习小辉AI教练分享的SD生成数字人的方法。
+
+    -   是的，可以离线处理Ebsynth任务作为替代方案，而不依赖Windows系统。
+
+    -   Temporal-kit在生成时遇到了报错问题，最终被放弃是因为无法解决最后一步的错误，具体细节未提及。
+
+    -   小辉AI教练尝试了使用Windows系统和Temporal-kit来生成数字人。最终采纳了离线处理Ebsynth任务的方案，因为Windows系统和Temporal-kit都遇到了问题无法解决。
+
+    -   SD生成数字人的实操教程可以通过访问指定的链接解锁流量密码。'
+  questions: '-   如何通过哪些途径可以学习小辉AI教练分享的SD生成数字人的方法？
+
+    -   在处理Ebsynth任务时，是否有替代方案可以取代Windows系统？
+
+    -   为什么Temporal-kit在生成时遇到问题，最终被放弃？这个问题的细节是什么？
+
+    -   小辉AI教练尝试了哪些方案来生成数字人？哪种方案最终被采纳了？为什么？
+
+    -   SD生成数字人的实操教程如何解锁流量密码？'
+  summary: "-   Stable Diffusion 生成数字人视频实操教程，解锁流量密码\n    1.  小辉 AI 教练分享了 SD 生成数字人的方法，尝试了多种方案并总结经验。\n\
     \    2.  Windows 不是必须的，可以离线处理 Ebsynth 任务。\n    3.  Temporal-kit 生成时遇到问题，最终放弃该方案。"
   text: '# Stable Diffusion 生成数字人视频实操教程，解锁流量密码> 原文：[`www.yuque.com/for_lazy/thfiu8/min6xxe6yarm8yy8`](https://www.yuque.com/for_lazy/thfiu8/min6xxe6yarm8yy8)##
     (51 赞)Stable Diffusion 生成数字人视频实操教程，解锁流量密码作者： 小辉 AI 教练日期：2023-09-25大家好，我是小辉 AI
