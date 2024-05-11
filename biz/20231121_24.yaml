@@ -1,4 +1,20 @@
-- summary: "-   我是如何搭建一个 GPTs Store 站点的\n    1.  使用wordpress快速建站，配置菜单和页面布局。\n    2.\
+- answers: '-   使用wordpress快速建站搭建GPTs Store站点可以采用免费的主题，进行简单配置，完成后可配置菜单和页面布局显示。
+
+    -   配置菜单和页面布局可以根据自己想要的稍微可视化修改配置，也可以不配置，先跳过。
+
+    -   全网采集数据主要包括谷歌、推特、reddit等，通过谷歌插件写脚本去chatgpt抓取对应的gpts的详细信息。
+
+    -   数据入库到wordpress形成gpts store站点的具体步骤是从chatgpt抓取所有的数据后，再调用wordpress的api接口，将数据批量插入到wordpress里。'
+  questions: '-   如何使用wordpress快速建站搭建GPTs Store站点？
+
+    -   如何配置菜单和页面布局？
+
+    -   你是如何全网采集数据，包括谷歌、推特、reddit等的？
+
+    -   如何通过谷歌插件抓取gpts详细信息？
+
+    -   数据入库到wordpress形成gpts store站点的具体步骤是什么？'
+  summary: "-   我是如何搭建一个 GPTs Store 站点的\n    1.  使用wordpress快速建站，配置菜单和页面布局。\n    2.\
     \  全网采集数据，包括谷歌、推特、reddit等，通过谷歌插件抓取gpts详细信息。\n    3.  数据入库到wordpress，形成gpts store站点。\n\
     \    4.  开发谷歌插件+向量化搜索，集成到chatgpt界面，实现直接搜索功能。"
   text: '# 我是如何搭建一个 GPTs Store 站点的> 原文：[`www.yuque.com/for_lazy/thfiu8/alen2rlanlcxi3wm`](https://www.yuque.com/for_lazy/thfiu8/alen2rlanlcxi3wm)##

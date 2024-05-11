@@ -1,4 +1,33 @@
-- summary: "-   Gpts 制作教程，太炸裂了！聊聊天就做一个 app\n    1.  作者在周末体验了 OpenAI 的 Gpts，从构思到发布两个\
+- answers: '-   作者如何在周末内体验了 OpenAI 的 GPTs，并且在仅一个小时内完成了两个 GPTs 的制作？
+
+    -   作者在周末体验了 OpenAI 的 GPTs，通过科学上网和开通 ChatGPT Plus，使用 ChatGPT 制作两个 GPTs，仅用了一个小时完成。
+
+    -   GPTs 制作的操作流程中包括哪些步骤？请简要描述每个步骤的内容。
+
+    -   操作流程包括：
+
+    -   ChatGPT 是如何根据作者的描述来完成给 GPT 起名字、设计产品图标、生成细节内容，并提供代码实现功能的？
+
+    -   ChatGPT根据作者的描述，自动生成产品名称，设计产品图标，提供细节内容，并在代码实现功能时根据需求提供指导，例如在转换功能时提醒勾选 Code
+    Interpreter。
+
+    -   在制作 GPTs 过程中，作者是否遇到了任何挑战或难点？如果有，可以描述一下是什么以及是如何解决的吗？
+
+    -   是的，作者在测试功能时忘记勾选 Code Interpreter，导致转换失败，后来勾选后成功解决了这个问题。
+
+    -   对于想要尝试使用 GPTs 制作应用程序的人来说，本文提供了哪些有用的信息或建议？
+
+    -   本文提供了详细的操作流程和注意事项，包括登录 ChatGPT、描述产品需求、测试功能、发布和修改已发布的 GPT等步骤，对于想尝试使用 GPTs 制作应用程序的人提供了很好的参考和指导。'
+  questions: '-   作者如何在周末内体验了 OpenAI 的 GPTs，并且在仅一个小时内完成了两个 GPTs 的制作？
+
+    -   GPTs 制作的操作流程中包括哪些步骤？请简要描述每个步骤的内容。
+
+    -   ChatGPT 是如何根据作者的描述来完成给 GPT 起名字、设计产品图标、生成细节内容，并提供代码实现功能的？
+
+    -   在制作 GPTs 过程中，作者是否遇到了任何挑战或难点？如果有，可以描述一下是什么以及是如何解决的吗？
+
+    -   对于想要尝试使用 GPTs 制作应用程序的人来说，本文提供了哪些有用的信息或建议？'
+  summary: "-   Gpts 制作教程，太炸裂了！聊聊天就做一个 app\n    1.  作者在周末体验了 OpenAI 的 Gpts，从构思到发布两个\
     \ Gpts 只用了一个小时。\n    2.  操作流程包括科学上网、开通 ChatGPT Plus、登录 ChatGPT 网站、描述产品需求等步骤。\n\
     \    3.  ChatGPT 会根据描述给 GPT 起名字、设计产品图标、生成细节内容，并提供代码实现功能。"
   text: '# Gpts 制作教程，太炸裂了！聊聊天就做一个 app> 原文：[`www.yuque.com/for_lazy/thfiu8/dums23vk42yg3adc`](https://www.yuque.com/for_lazy/thfiu8/dums23vk42yg3adc)##
@@ -13,7 +42,35 @@
     PNG 照片后让它转成 JPG,结果告诉我转换不了。![](img/28988808d06bb4d1ab82c9b4d8ce052a.png)why？原来我没把
     Code Interpreter 选上，因为我现在让 GPT 做的事情，都需要用代码去实现，所以勾选 Code Interpreter，再重新转换，就可以下载了。![](img/28988808d06bb4d1ab82c9b4d8ce052a.png)![](img/5c2c2cb86ecba51f9abf616f143ce4ca.png)8、简单测试了一下好用，先去玩一下发布。点击右上角，选择
     Public，点击 Confirm。![](img/c6ddd89b81f05b6d016c0cb17ec12088.png)'
-- summary: "-   发布成功后的效果如下:\n    1.  展示了如何重新编辑已发布的Gpt\n    2.  介绍了Conversation starters的功能\n\
+- answers: '-   如何重新编辑已发布的GPT？
+
+    -   点击右上角的【Edit】即可重新编辑已发布的GPT。
+
+    -   Conversation starters的功能有哪些？
+
+    -   Conversation starters是预置的一些对话需求，包括提供对话提示和指导用户如何与GPT进行交互。
+
+    -   PDF Tools的使用案例和链接是什么？
+
+    -   使用案例是将PDF转换为PNG，并将前10页合并到一张长图中。PDF Tools的链接为[`chat.openai.com/g/g-QBod6nsRb-pdf-tools`](https://chat.openai.com/g/g-QBod6nsRb-pdf-tools)。
+
+    -   PDF Tools支持哪些功能？
+
+    -   PDF Tools支持PDF编辑（包括压缩、分割、合并、提取文字、图片）、转换（PDF与Word、Excel、PPT、图片相互转换），每次转换失败时会重试最多5次。
+
+    -   评论区中盟主君和邱比特的反馈是什么？
+
+    -   盟主君反馈试用了两个工具，貌似效果不太好，不能输出任务结果。邱比特回复说晚上再调整。'
+  questions: '-   如何重新编辑已发布的GPT？
+
+    -   Conversation starters的功能有哪些？
+
+    -   PDF Tools的使用案例和链接是什么？
+
+    -   PDF Tools支持哪些功能？
+
+    -   评论区中盟主君和邱比特的反馈是什么？'
+  summary: "-   发布成功后的效果如下:\n    1.  展示了如何重新编辑已发布的Gpt\n    2.  介绍了Conversation starters的功能\n\
     \    3.  提供了PDF Tools的使用案例和链接\n-   PDF Tools功能介绍:\n    1.  支持PDF编辑和转换\n    2.\
     \  提供了PDF转换为PNG的使用案例\n    3.  可以重试最多5次转换失败的情况\n-   评论区反馈:\n    1.  盟主君试用两个工具效果不佳\n\
     \    2.  邱比特表示晚上再调整效果"
