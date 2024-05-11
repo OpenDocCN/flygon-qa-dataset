@@ -1,4 +1,13 @@
-- summary: "-   程序员创业，怒砸百万做 AI 工具\n    1.  程序员转行创业经历\n    2.  创业初期焦虑和困惑\n    3.  通过市场需求找到切入点，获得成功\n\
+- questions: '-   如何描述程序员转行创业的经历？
+
+    -   在创业初期，程序员面临的焦虑和困惑是什么样的？
+
+    -   创业者是如何通过市场需求找到切入点并最终获得成功的？
+
+    -   在“第二个一百万”中，为什么说工作积累不及创业收获？
+
+    -   解释一下个体与市场融合的重要性，以及市场供需矛盾理论在创业中的应用和成功经验。'
+  summary: "-   程序员创业，怒砸百万做 AI 工具\n    1.  程序员转行创业经历\n    2.  创业初期焦虑和困惑\n    3.  通过市场需求找到切入点，获得成功\n\
     -   第二个一百万\n    1.  工作积累不及创业收获\n    2.  个体与市场融合的重要性\n    3.  市场供需矛盾理论的应用和成功经验"
   text: '# 程序员创业，怒砸百万做 AI 工具> 原文：[`www.yuque.com/for_lazy/thfiu8/ei3wgyusfhpp2ecz`](https://www.yuque.com/for_lazy/thfiu8/ei3wgyusfhpp2ecz)##
     (36 赞)程序员创业，怒砸百万做 AI 工具作者： 闲富咨询【软件商业】日期：2023-10-23大家好，我是闲富，在杭州硬核技术创业的程序员。简单介绍下我的经历：**煤矿：**2013
@@ -9,7 +18,60 @@
     7 月份，和朋友一起去了一趟常熟，中国的服装生产基地之一，和众多的商家交流之后发现了几个特点：1\. 大多数商家都转向了抖音直播2\. 很多商家对于模特图片有着很大的需求，因为有很多款式要上新3.大家对于混剪短视频比较感兴趣，主要也是为了做矩阵回来之后，我和朋友合计了一下，对于
     2 和 3 分别投入团队和资金开发了两款产品，一个是 AI 商拍模特，另外一个就是 AI 混剪工具。这一次，有点孤注一掷的感觉，毕竟把前两年赚来的钱都投入了进去，走的还是程序员做产品的老路。今天聊聊，我在做这个工具的时候一些心路历程和思考，希望可以给其他程序员创业带来一些启发和参考##
     一、一切从需求出发'
-- summary: "-   首先市场需求大，混剪+矩阵盈利法宝，本地exe混剪存在问题，发现在线web混剪工具，市场规模大但竞争激烈，产品创新关键。\n   \
+- answers: '-   Online web-based video editing tools offer advantages over local executable
+    software in terms of accessibility and performance. They eliminate the need for
+    high-performance computers as they operate directly in the browser, making them
+    accessible from any device with an internet connection. Additionally, they often
+    have simpler interfaces and faster processing speeds, streamlining the editing
+    process for users.
+
+    -   Integration of the Douyin Open Platform API facilitates the emergence of video
+    editing tools tailored for businesses by enabling seamless interaction between
+    the tool and the Douyin platform. This integration allows businesses to leverage
+    the platform''s features, such as video publishing and user authentication, to
+    enhance their marketing efforts. By utilizing the API, video editing tools can
+    automate processes like video publishing, making it easier for businesses to create
+    and distribute content on Douyin.
+
+    -   Short video platforms like Douyin have specific technological requirements,
+    including advanced algorithms for content curation, originality detection mechanisms,
+    and robust user safety measures. These platforms rely on algorithms to identify
+    and promote high-quality content to users, detect and prevent the spread of copyrighted
+    material, and safeguard against fake accounts and fraudulent activities. Video
+    editing tools tailored for these platforms must adhere to these requirements to
+    ensure compatibility and effectiveness.
+
+    -   Market demand for video editing tools intersects with the need for innovative
+    products by emphasizing the importance of addressing specific pain points and
+    offering unique features. As demonstrated in the article, identifying market needs,
+    such as the demand for simplified editing processes and platform-specific optimization,
+    drives the development of innovative tools like AI-based editing software. By
+    innovating to meet market demands, developers can differentiate their products
+    and capture a competitive edge in the industry.
+
+    -   Small teams can benefit from a combination of video editing and matrix techniques
+    by leveraging the power of automation and optimization to amplify their marketing
+    efforts. By integrating video editing tools with matrix strategies, such as targeted
+    content distribution and audience engagement tactics, small teams can efficiently
+    create and promote high-quality content across platforms like Douyin. This integrated
+    approach allows them to maximize their reach and impact while minimizing resource
+    expenditure, making it a cost-effective solution for small-scale marketing operations.'
+  questions: '-   What are the advantages of using online web-based video editing
+    tools compared to local executable video editing software?
+
+    -   How does the integration of the Douyin Open Platform API contribute to the
+    emergence of video editing tools tailored for businesses?
+
+    -   What are the key technological requirements for short video platforms, such
+    as algorithms for selecting excellent content and mechanisms for ensuring user
+    safety?
+
+    -   How does the market demand for video editing tools intersect with the need
+    for innovative products?
+
+    -   In what ways can small teams benefit from a combination of video editing and
+    matrix techniques?'
+  summary: "-   首先市场需求大，混剪+矩阵盈利法宝，本地exe混剪存在问题，发现在线web混剪工具，市场规模大但竞争激烈，产品创新关键。\n   \
     \ 1.  小团队需求混剪+矩阵\n    2.  在线web混剪工具优势\n    3.  产品创新是关键\n-   项目逻辑简单，抖音开放平台提供接口，用户扫码授权发布商家视频，带有矩阵属性，混剪工具应运而生。\n\
     \    1.  抖音开放平台接口\n    2.  爆店码项目逻辑\n    3.  混剪工具应运而生\n-   短视频时代核心技术：优秀内容挑选算法、原创检测机制、用户安全机制技术，选择任一方向都有红利。\n\
     \    1.  短视频平台核心技术需求\n    2.  优秀内容挑选算法\n    3.  用户安全机制技术"
@@ -23,7 +85,35 @@
     3 天时间编写了爆店码的代码，然后卖给了好多团队，但是他们很快反馈一个问题，就是抖音是不允许发布同质的视频，也就是在爆店码平台上存储的商家视频，每一条都得是原创的。也就是借助这个缘分，我了解到了混剪。当时记得有个山东团队，做了一个
     AI 混剪的 exe 工具，卖的很好，网上各种破解版本。我也下载之后试了一下，但是很快就失效了，因为抖音平台也在进化。我记得当时请教了很多技术专家，他们也是在新的短视频带来的时候，第一次碰到如何把一段视频经过处理之后，能够变成一段看起来和之前差不多一样，但是能够被平台检测为新视频这样的问题，当时他们没有给我太多的答案，所以这个混剪这个事情就暂时放下了，没想到
     2 年后缘分再起。## 三、平台命门毫无疑问，我们处于短视频的时代周期中。任何一个短视频平台，需要三个核心技术。1.  有一套算法机制把优秀的内容挑选出来的机制，抖音的流量池应用了类似投票加权的策略，目前略胜一筹。2.有一套能够原创检测机制，这个类似于知识产权保护的方法，从各方面纬度来保证视频的原创。3.有一套强大的用户安全机制技术，防止大量委伪造用户进行虚假互动刷数据。这三个方向，你选择任何其中一个做产品，都会迎上短视频时代的巨大红利。'
-- summary: "-   这个想法是我做混剪产品的时候最大的感触。相信很多朋友也从中受益，主要包括简化操作、建内测群和工具辅助盈利。\n    1.  简化操作是关键，提高执行力和效率。\n\
+- answers: '-   如何确保简化操作的同时提高执行力和效率？
+
+    -   确保简化操作的关键在于优化用户体验，使得操作流程简单易懂，减少不必要的步骤和复杂性。同时，通过引入智能化技术和自动化流程，提高执行力和效率，例如采用一键复刻功能，减少用户手动操作，提高处理速度和准确性。
+
+    -   建立内测群的关键是什么，如何获取宝贵建议和支持？
+
+    -   内测群的关键在于选择具有热情和专业知识的用户作为参与者，他们能够提供真实可靠的反馈和建议。获取宝贵建议和支持的方法包括积极互动和沟通，倾听用户需求和意见，及时响应和解决问题，同时提供激励和奖励机制，以吸引更多用户参与。
+
+    -   在工具辅助盈利的过程中，如何确保抱团盈利成为主要目标？
+
+    -   确保抱团盈利成为主要目标的关键在于明确商业模式和盈利方向，将工具的功能和特点与用户需求和市场趋势相结合，提供有针对性的解决方案。同时，建立合作伙伴关系和生态系统，形成良性循环和共赢局面，以实现长期可持续的盈利模式。
+
+    -   什么样的工具可以给用户创造有效的价值？
+
+    -   给用户创造有效价值的工具应该具备以下特点：一是功能强大，能够解决用户实际问题和需求，提供高效便捷的解决方案；二是用户体验良好，操作简单易懂，界面友好美观，能够满足用户的个性化需求和偏好；三是持续创新，不断更新和优化功能，与时俱进，保持竞争力和吸引力。
+
+    -   在产品开发过程中，如何平衡简化操作、建立内测群和工具辅助盈利之间的关系？
+
+    -   在产品开发过程中，需要平衡简化操作、建立内测群和工具辅助盈利之间的关系，首先要确保简化操作的同时不影响用户体验和功能完整性，其次要充分利用内测群的力量获取反馈和支持，不断改进和优化产品，最后要以盈利为导向，确保工具的功能和服务能够创造价值并实现商业可持续发展。'
+  questions: '-   如何确保简化操作的同时提高执行力和效率？
+
+    -   建立内测群的关键是什么，如何获取宝贵建议和支持？
+
+    -   在工具辅助盈利的过程中，如何确保抱团盈利成为主要目标？
+
+    -   什么样的工具可以给用户创造有效的价值？
+
+    -   在产品开发过程中，如何平衡简化操作、建立内测群和工具辅助盈利之间的关系？'
+  summary: "-   这个想法是我做混剪产品的时候最大的感触。相信很多朋友也从中受益，主要包括简化操作、建内测群和工具辅助盈利。\n    1.  简化操作是关键，提高执行力和效率。\n\
     \    2.  建立内测群获取宝贵建议和支持。\n    3.  工具只是辅助，抱团盈利才是目的，通过工具给用户创造有效价值。"
   text: 这个想法是我做混剪产品的时候最大的感触。 也相信很多朋友，其实都从我说的这三个方向中吃到了很多的红利。## 四、简化操作，简单粗暴我就是刚才提到的混剪工具的第一种人。尝试了很多的带货项目，但是一发现需要混剪，执行力立马就不足了。辛辛苦苦搞了很长时间的视频，发出去播放还不到
     500，顿时灰心丧气。所以我当时就想到一个点子，如果有一个产品，能够直接把别人的短视频链接扔进去，然后它在里边一顿操作，然后给我吐出来一个视频就是过原创的，这个该多好啊！程序员就是工程师，工程师就是用来创造奇迹的！
@@ -33,7 +123,25 @@
     200 多位朋友进群为我们提供宝贵建议！![](img/def661ac78da78fdd3a054405e46b5e9.png)还记得一个伟大的产品经理说过一句话，当你做一款产品的时候，你需要去发现和寻找对于你的产品狂热的人，他们就是你继续做下去的勇气和动力！这些内测群的朋友，就是我继续做下去的动力！
     很快，我们更新了第二个版本。![](img/83906fdd51cc69ef044b5c9e1b61d1ac.png)![](img/1c2378240d81547dde81bf458bd8bf9f.png)![](img/447bd385110090f241a250a412a02d65.png)![](img/4c34a8630bcca5b78166a1e716b8194b.png)![](img/c310f6cbfaefc01cd771dd66433bbde3.png)![](img/07b2b057ff76215fadd1d865c0a08e81.png)![](img/603a35861ea18899202201633daad82c.png)##
     六、工具只是辅助，抱团盈利才是目的工具的目的是为了提高效率，真正有用的还是要通过工具给用户创造行之有效的价值。在内测的过程中，很多朋友和我真诚的分享了他们目前做的项目，尤其是小红书矩阵项目。虽然这个项目听起来老掉牙了，但是真正实操的朋友们做的依然风生水起，赚的盆满钵满。针对小红书的过原创，我们增加了字母雨和增加实拍等方法，极大的提高了过原创率，也给这些朋友提供了很大的帮助。小红书矩阵目前有两种主流的玩法，店群矩阵和账号矩阵，每个项目都有自己的核心关键点。对于店群来说，和之前的电商运营逻辑相似，通过补单等操作。账号矩阵的玩法就比较花样繁多了，如果有技术和运气的加持，收益还是比较客观的。后续希望能够和更多实操的大佬们合作，
-- summary: "-   最强的技术+最强的运营方法，抱团盈利。\n    1.  讨论产品初心，是否为方便搬运视频码。\n    2.  混剪技术发展不会停止，商业人追求效率。\n\
+- answers: '-   产品初心并非只是为了方便搬运视频码，而是为了降低视频剪辑门槛，让更多人能够轻松创作并获得正面反馈。
+
+    -   随着混剪技术的发展，商业运营的效率将会得到提高，但也会面临技术检测的挑战，需要不断创新以应对平台的更新。
+
+    -   产品初心降低第一步门槛的方式是提供简单易用的工具和资源支持，通过正面反馈鼓励用户勇敢迈出第一步。
+
+    -   在技术和运营上实现抱团盈利的具体方法包括与实操大佬合作，结合最强技术和运营方法，共同推动项目发展。
+
+    -   对于抱团盈利模式，需要平衡技术和运营之间的关系，确保技术创新能够为运营提供更多支持，同时注重用户体验和商业可持续性。'
+  questions: '-   产品初心是否真的是为了方便搬运视频码？
+
+    -   混剪技术的发展将如何影响商业运营的效率？
+
+    -   产品初心降低第一步门槛的方式是什么，如何促使更多人勇敢迈出第一步？
+
+    -   在技术和运营上实现抱团盈利的具体方法是什么？
+
+    -   对于抱团盈利模式，如何平衡技术和运营之间的关系？'
+  summary: "-   最强的技术+最强的运营方法，抱团盈利。\n    1.  讨论产品初心，是否为方便搬运视频码。\n    2.  混剪技术发展不会停止，商业人追求效率。\n\
     \    3.  产品初心是降低第一步门槛，让更多人勇敢迈出第一步。"
   text: '最强的技术+最强的运营方法，抱团盈利。## 七、不忘初心，继续努力曾经和朋友探讨过我们作这个产品的初心，是更方便的去搬运别人的视频码？ 这种情况是不道德的，还是说能够帮助更多的团队提升效率，毕竟有的时候是可以自己搬运自己的视频，或者说，我们是在探讨，视频剪辑这个路到底能不能走的通。平台在发展，再牛的混剪技术也会检测出来，但是混剪这个事情永远也不会停。毕竟商业人在追求效率面前是永无止境的。或者说，花了这么多钱，做的这个产品，目前还是
     0 收入，仅仅是为了满足自己的一个小想法，捡了一个鼠标，又去配了一个电脑。后来我们想了想，还是为了更多的小白，能够更方便的走出第一步，不管是用剪映还是别的工具，或者是用我们的产品，能够勇敢的走出来第一步，拿到一个正反馈，降低这个第一步的门槛，这个应该就是我们的初心吧！毕竟每个人出生的时候，都要经历一个连拉屎都要被夸的婴儿年纪，父母会为你蹒跚学步的每一个脚步都呐喊叫好，哪怕只是众多人中非常普通的一步！希望更多人能够在混剪+矩阵的项目，迈出去自己勇敢的第一步！大家好，我是硬核科技创业的闲富，我在杭州，欢迎链接，希望和更多的朋友们同行！*
