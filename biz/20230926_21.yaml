@@ -1,4 +1,32 @@
-- summary: "-   stable diffusion 模型管理和 controlnet 最新支持 SDXL 模型下载\n    1.  模型管理小技巧：设置中文文件夹方便查看和调用模型\n\
+- answers: '-   如何有效管理和控制 stable diffusion 模型？
+
+    -   小技巧 1：将模型放置在中文文件夹下，可以方便查看和调用。
+
+    -   如何设置中文文件夹以方便查看和调用模型？
+
+    -   可以设置中文文件夹来管理模型，这样可以方便查看和调用模型。
+
+    -   有关 LORA 模型放置位置问题的解决方案是什么？
+
+    -   解决方案是将原生 LORA 模型和插件放置在同一路径，节省硬盘空间。
+
+    -   控制网络模型的放置技巧是什么？它如何支持 SDXL 模型的升级和下载链接？
+
+    -   控制网络模型可以直接放置在安装目录\models\ControlNet 下，同时支持 SDXL 模型。更新 SD 软件至1.6版本，controlnet至1.1.410版本，下载链接：[`huggingface.co/lllyasviel/sd_control_collection/tree/main`](https://huggingface.co/lllyasviel/sd_control_collection/tree/main)。
+
+    -   controlnet 最新支持 SDXL 模型下载的具体细节是什么？
+
+    -   controlnet 最新支持SDXL模型下载，更新至SD软件1.6版本，controlnet至1.1.410版本，并下载相应模型即可。'
+  questions: '-   如何有效管理和控制 stable diffusion 模型？
+
+    -   如何设置中文文件夹以方便查看和调用模型？
+
+    -   有关 LORA 模型放置位置问题的解决方案是什么？
+
+    -   控制网络模型的放置技巧是什么？它如何支持 SDXL 模型的升级和下载链接？
+
+    -   controlnet 最新支持 SDXL 模型下载的具体细节是什么？'
+  summary: "-   stable diffusion 模型管理和 controlnet 最新支持 SDXL 模型下载\n    1.  模型管理小技巧：设置中文文件夹方便查看和调用模型\n\
     \    2.  LORA 模型放置位置问题及解决方案\n    3.  controlnet 模型放置技巧和支持 SDXL 模型的升级和下载链接"
   text: '# stable diffusion 模型管理和 controlnet 最新支持 SDXL 模型下载> 原文：[`www.yuque.com/for_lazy/thfiu8/fqd4ao12olr1lpoe`](https://www.yuque.com/for_lazy/thfiu8/fqd4ao12olr1lpoe)##
     (25 赞)stable diffusion 模型管理和 controlnet 最新支持 SDXL 模型下载作者： 来来日期：2023-09-18**1、模型管理**小技巧
@@ -12,7 +40,25 @@
     2：现在 controlnet 已经可以很好的支持 SDXL 模型了，请升级 SD 软件到 1.6 版本，controlnet 升级到 1.1.410 版本。需要下载支持
     SDXL 的 controlnet 模型，放置在上一条说的文件夹即可。****下载链接：这里的模型是 controlnet 专用哦[`huggingface.co/lllyasviel/sd_control_collection/tree/main`](https://huggingface.co/lllyasviel/sd_control_collection/tree/main)****这
     3 个是适合 SD1.5 模型的，IP-Adapter 和 Recolor 模型**'
-- summary: "-   腾讯的 T2I-Adapter 模型支持 SDXL 和 SD1.5，共有44个支持SDXL和21个支持SD1.5的模型可供下载。\n\
+- answers: '-   T2I-Adapter模型支持SDXL的数量是3个。
+
+    -   T2I-Adapter模型支持SD1.5的数量是18个。
+
+    -   总共有新增的模型支持SDXL和SD1.5的数量是65个。
+
+    -   这些模型可以免费下载。
+
+    -   目前没有提及是否有计划增加更多模型支持其他规格。'
+  questions: '-   T2I-Adapter模型支持SDXL的数量是多少？
+
+    -   T2I-Adapter模型支持SD1.5的数量是多少？
+
+    -   总共有多少新增的模型支持SDXL和SD1.5？
+
+    -   这些模型是否可以免费下载？
+
+    -   是否有计划增加更多模型支持其他规格？'
+  summary: "-   腾讯的 T2I-Adapter 模型支持 SDXL 和 SD1.5，共有44个支持SDXL和21个支持SD1.5的模型可供下载。\n\
     \    1.  T2I-Adapter模型支持SDXL的数量为3个。\n    2.  T2I-Adapter模型支持SD1.5的数量为18个。\n  \
     \  3.  新增的模型数量为44个支持SDXL和21个支持SD1.5。\n-   暂无评论。"
   text: '![](img/cebdffc81649c2a7c6b28152d3a04789.png)**其余 41 个都是支持 SDXL 大模型的，截图不全。**![](img/3b38de55f66e684d9ea8284b21cd5c91.png)腾讯的
