@@ -1,4 +1,19 @@
-- summary: "-   文科生在AI团队中发挥作用\n    1.  文科生可以通过调研和科普AI应用场景，找到高价值场景\n    2.  文科生可以将专家经验转化为产品，开发出解决问题的AI工具\n\
+- answers: ''
+  questions: '-   How can liberal arts students contribute to AI teams by identifying
+    high-value application scenarios through research and popularizing them?
+
+    -   In what ways can liberal arts students leverage expert knowledge to develop
+    AI tools that address specific problems?
+
+    -   How might liberal arts students facilitate the effective utilization of AI
+    tools by business personnel to achieve desired outcomes?
+
+    -   What strategies can be implemented to integrate liberal arts students into
+    AI teams and maximize their contributions?
+
+    -   How can the collaboration between liberal arts students and technical experts
+    within AI teams lead to innovative solutions and advancements in AI technology?'
+  summary: "-   文科生在AI团队中发挥作用\n    1.  文科生可以通过调研和科普AI应用场景，找到高价值场景\n    2.  文科生可以将专家经验转化为产品，开发出解决问题的AI工具\n\
     \    3.  文科生可以帮助业务员工真正使用AI工具取得效果"
   text: '# 文科生在 AI 团队里，究竟能干嘛？> 原文：[`www.yuque.com/for_lazy/thfiu8/fmmc0b6tsrwwarh0`](https://www.yuque.com/for_lazy/thfiu8/fmmc0b6tsrwwarh0)##
     (22 赞)文科生在 AI 团队里，究竟能干嘛？作者： 杨昌日期：2023-10-16文科生在 AI 团队里，究竟能干嘛？这大半年来，市面上被报道的 AI
@@ -13,7 +28,15 @@
     AI 的真实情况，尤其是对行业的真实影响，科普给他们。等专家对「AI 能干啥和不能干啥」有个基本概念过后，我再试着用他们能接受的方式，一起测试 AI 在解决业务真实问题方面的效果。整体来看，专家们更喜欢业务导向的专题式调研报告，测试过且有
     know-how 层面的 SOP 更佳，有客户/用户的数据最好。而对于市面上常见的技术向、产品向的科普文章（和软广），他们其实兴趣不大。二、开发出能解决问题的傻瓜式
     AI 工具1、确保 AI 能解决业务中的真实问题5 月下旬，OpenAI 的创始人之一，大神 Andrej Karpthy 在微软 Build 2023 开发者大会上有提到过：“很多事情，直接写提示词（prompt）就可以搞定。在达到提示词上限之前，不需要考虑模型微调。”在实际业务当中，很多问题，确实可以通过提示词解决。而提示词的上限，则取决于业务的重要程度和专家的专业程度。如果，有幸在上个阶段，找到了重要性够高的业务场景。那么，这个阶段的重点，'
-- summary: "-   AI工程师和行业专家之间的提示词鸿沟需要填补，简单易用的AI工具对入门者更友好。\n    1.  提示词需要结合业务和技术知识，与业务专家合作更有效。\n\
+- answers: '-   文科生在AI团队里可以做哪些事情？
+
+    -   AI团队中的文科生如何与专家合作？
+
+    -   文科生在AI团队里可以通过调研和科普AI在行业中的应用，开发傻瓜式AI工具，并帮助业务一线员工真正用出效果。
+
+    -   文科生可以与专家合作，通过科普AI的真实情况和行业影响，测试AI在解决业务问题方面的效果。'
+  questions: ''
+  summary: "-   AI工程师和行业专家之间的提示词鸿沟需要填补，简单易用的AI工具对入门者更友好。\n    1.  提示词需要结合业务和技术知识，与业务专家合作更有效。\n\
     \    2.  需要提前准备高频场景的提示词，交付简易工具给业务伙伴。\n    3.  业务一线伙伴使用AI工具仍需学习成本，重点在于找到高价值场景。\n\
     -   在业务一线推广AI工具时，需要克服业务伙伴的担忧和疑虑，通过实际应用和提效数据吸引用户。\n    1.  通过深入项目中使用AI工具，帮助业务团队提效，建立信任。\n\
     \    2.  总结业务痛点，找到高频场景，让团队真切感受AI工具的帮助。\n    3.  重点在于找到行业的高价值场景，与行业专家合作，为公司带来价值。\n\
@@ -30,7 +53,14 @@
     AI 加持，就不用过于纠结文科、理科了。肯专研的话，很多技术上的问题、行业里的专业问题，都是可以学会的。比如生财有术里很多圈友在尝试的爬虫，我用 ChatGPT
     和 colab 就跑通一一个，不需要任何插件，也不需要下载 python，好几个人跟着也试成功了：而且，从合作的角度来看，这些问题也无需学到多么精通。收到需求后，知道技术能否实现；看到技术后，清楚业务中如何应用，就差不多了。至于那些个高价值场景，可能还需要把这门生意摸得足够透，对市面上「需求（流量）-产品-变现」的玩法了解得足够多。我希望自己，今后尽可能少考虑自己学的是什么专业，担任的是什么岗位。然后，把更多的心思，花在如何用我的优势和用
     AI 为客户/用户创造更大价值上，花在细分领域客户/用户的需求洞察上。毕竟，客户/用户真正关心的，不是我是谁，
-- summary: "-   作者强调重点在于他能给予他人什么。\n    1.  作者关注于AI工作流的影响。\n    2.  作者强调价值观和作用。\n \
+- answers: "-   作者强调重点在于他能给予他人什么。\n    2.  作者强调价值观和作用。\n-   作者关注的是什么领域的影响？\n    -\
+    \   作者关注的是AI工作流的影响。\n-   作者认为重要的是什么？\n    -   作者认为重要的是找到行业的高价值场景。\n-   在评论区方面，目前有何情况？\n\
+    \    -   评论区暂无评论。\n-   作者关注的是哪些方面的价值观和作用？\n    -   作者关注的是如何用自身优势和AI为客户/用户创造更大价值，以及细分领域客户/用户的需求洞察。\n\
+    -   作者如何表达他的价值观和作用观点？\n    -   作者通过强调文科与理科并不是重点，以及专注于如何用自身优势和AI为客户/用户创造更大价值来表达他的价值观和作用观点。"
+  questions: "-   作者强调重点在于他能给予他人什么。\n    1.  作者关注于AI工作流的影响。\n    2.  作者强调价值观和作用。\n\
+    \    3.  评论区暂无评论。\n-   作者关注的是什么领域的影响？\n-   作者认为重要的是什么？\n-   在评论区方面，目前有何情况？\n-\
+    \   作者关注的是哪些方面的价值观和作用？\n-   作者如何表达他的价值观和作用观点？"
+  summary: "-   作者强调重点在于他能给予他人什么。\n    1.  作者关注于AI工作流的影响。\n    2.  作者强调价值观和作用。\n \
     \   3.  评论区暂无评论。"
   text: 而是我能给他们带来的是什么。#AI 工作流[`m.okjike.com/originalPosts/65239cccaa7d4f2b30bdf900?s=ewoidSI6ICI1ZjJmNWFiOTE0ZGU2NTAwMTc1ZmI0MmEiCn0=`](https://m.okjike.com/originalPosts/65239cccaa7d4f2b30bdf900?s=ewoidSI6ICI1ZjJmNWFiOTE0ZGU2NTAwMTc1ZmI0MmEiCn0=)*
     * *评论区：暂无评论![](img/1c37d505930596d12a88ab23e11aa07a.png)* * *
