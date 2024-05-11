@@ -1,4 +1,32 @@
-- summary: "-   Web3 撸空投打造精品号，作者阿曾分享了自己的撸毛经历和心得。\n    1.  阿曾在2022年5月加入撸毛圈，通过写教程学习参与项目，获得知识增长。\n\
+- answers: '-   什么是撸毛？阿曾是如何描述这个概念的？
+
+    -   撸毛是指以低成本参与项目发展，通过项目的火热获取收益的行为。阿曾描述撸毛为可以穿越牛熊的行为，因为可以在低成本参与项目的发展，若项目成功，可获得收益。
+
+    -   阿曾是如何通过写教程学习参与项目的？
+
+    -   阿曾通过写教程的方式学习参与项目，他在去年 5 月开通了 mirror，然后自己学着写教程，教别人如何参与项目，从中获取知识的增长。
+
+    -   在撸毛过程中，有哪些注意事项阿曾提到了？
+
+    -   阿曾提到了在撸毛过程中的注意事项包括：保持警惕，不要轻信谷歌、推特或别人发的链接；进行交互时要保持清醒状态，避免分心或迷糊导致错误；多重比对确认涉及到钱包授权的链接、合约、官推、社区等；避免安装未知危险软件、不将助记词通过触网媒介储存、不在云上备份助记词等。
+
+    -   钱包安全为何对撸毛至关重要？阿曾有提到什么安全建议？
+
+    -   钱包安全对撸毛至关重要，因为涉及到资产的安全。阿曾提到了一系列的安全建议，包括多重比对确认涉及到钱包授权的链接、合约、官推、社区等；避免安装未知危险软件、不将助记词通过触网媒介储存、不在云上备份助记词等。
+
+    -   撸毛圈的发展如何影响了阿曾的知识增长？
+
+    -   撸毛圈的发展促使阿曾通过写教程的方式学习参与项目，从中获取知识的增长。'
+  questions: '-   什么是撸毛？阿曾是如何描述这个概念的？
+
+    -   阿曾是如何通过写教程学习参与项目的？
+
+    -   在撸毛过程中，有哪些注意事项阿曾提到了？
+
+    -   钱包安全为何对撸毛至关重要？阿曾有提到什么安全建议？
+
+    -   撸毛圈的发展如何影响了阿曾的知识增长？'
+  summary: "-   Web3 撸空投打造精品号，作者阿曾分享了自己的撸毛经历和心得。\n    1.  阿曾在2022年5月加入撸毛圈，通过写教程学习参与项目，获得知识增长。\n\
     \    2.  撸毛可以低成本参与项目发展，但要注意项目方不会给所有地址发空投。\n    3.  钱包安全至关重要，要注意不要信谷歌、推特或他人发的链接，多重比对确认授权。"
   text: '# Web3 撸空投打造精品号> 原文：[`www.yuque.com/for_lazy/thfiu8/ocggig21uv29n2wk`](https://www.yuque.com/for_lazy/thfiu8/ocggig21uv29n2wk)##
     (17 赞)Web3 撸空投打造精品号作者： 阿曾日期：2023-11-15大家好，我是阿曾。近期看到很多船友对 web3 撸毛有兴趣，这次我就做一个关于撸毛的分享。相信如果听完本次分享，可以举一反三，对其他撸毛项目你也会自己的判断。我是
@@ -11,7 +39,16 @@
     v 神（以太坊创始人）的推特也被黑了，被人社会工程接管了手机 sim 卡重置了推特密码。![](img/4ccb70d9b9aa4854d7805a337f3671ab.png)所以，连
     v 神的推特都可能被黑，那谁敢保证谁不会被黑呢？骗子做了一个假官网，把关键词优化到谷歌第一位。有个人囤了 5 年的四百多个 ETH，去到假网站，然后被盗了。![](img/e4300d0a3732db07b765e91cc4be38d9.png)因此，要保持怀疑，不要信谷歌，不要信推特，不要信别人发的链接。涉及到钱包授权的，一定要链接，合约，官推，社区，多重比对确认。电脑不要安装未知危险软件
     exe，要经常杀毒；避免助记词通过任何触网的媒介储存；避免助记词 txt 存储，手机拍照，xls 文件未加密；助记词备份到云，'
-- summary: "-   钱包安全常见问题\n    1.  数据泄漏风险，剪切板监控，指纹浏览器后门\n    2.  重要信息未备份可能导致资产流失\n\
+- answers: "-   钱包安全常见问题\n    1.  数据泄漏风险、剪切板监控和指纹浏览器后门都会增加钱包被攻击的风险。数据泄漏可能导致私钥泄露，剪切板监控可能劫持交易地址，指纹浏览器后门可能泄露用户信息。\n\
+    \    2.  重要信息未备份可能导致资产流失，因为遗失设备或意外损坏可能导致无法访问资产。备份的正确方法是使用离线媒介，如硬件钱包或写在纸上，并妥善保存在安全的地方。\n\
+    \    3.  应对项目方被盗、跑路等第三方问题的方法包括取消跨链桥授权以避免资产流失。此外，及时关注社区消息、审查项目方信誉等也是重要的预防措施。\n\
+    -   多号策略\n    1.  多号能够提高参与生态建设的机会，因为可以同时参与多个项目或任务，增加收益来源。具体优势包括分散风险、增加空投机会和参与不同生态的可能性。\n\
+    \    2.  精品号和普通号的区别在于精品号参与的任务更多且更频繁，需要维护更多社交账号，而普通号则主要用于刷链上数据。创建这两种类型的账号时，要点在于精品号需要保持活跃度、参与各种任务，而普通号则着重于提高链上数据的刷取频率。\n\
+    \    3.  硬件多开被认为是最佳的多号方式，因为可以提高收益机会且更安全。通过使用多台电脑或设备，可以实现钱包的隔离和防止女巫行为，确保每个账号的安全性和独立性。"
+  questions: "-   钱包安全常见问题\n    1.  数据泄漏风险、剪切板监控和指纹浏览器后门是如何影响钱包安全的？\n    2.  为什么重要信息未备份可能导致资产流失？备份的正确方法是什么？\n\
+    \    3.  如何应对项目方被盗、跑路等第三方问题？取消跨链桥授权有何作用？\n-   多号策略\n    1.  多号如何能够提高参与生态建设的机会？有哪些具体的优势？\n\
+    \    2.  精品号和普通号有何区别？创建这两种类型的账号有何要点？\n    3.  为什么硬件多开被认为是最佳的多号方式？它如何提高收益机会？如何确保钱包隔离和防止女巫行为？"
+  summary: "-   钱包安全常见问题\n    1.  数据泄漏风险，剪切板监控，指纹浏览器后门\n    2.  重要信息未备份可能导致资产流失\n\
     \    3.  项目方被盗、跑路等第三方问题，需注意取消跨链桥授权\n-   多号策略\n    1.  多号可提高参与生态建设机会\n    2.  精品号和普通号的区分及创建方法\n\
     \    3.  硬件多开是最佳多号方式，提高收益机会，注意钱包隔离和女巫行为检查"
   text: 导致数据泄漏，没有哪个云是安全的，很多大厂都被拖库过；剪切板可能被监控，复制最好少复制几位；指纹浏览器 / 云服务器/脚本有后门；手机篇：下载到假
@@ -28,7 +65,55 @@
     可以开通 5 个子账号，即 1 个主号 +5 个子账号。主号可以申请 20 个充值地址，子账号也可以申请 20 个充值地址。因此，一共 20+5*20=120
     个充值地址，可以做好钱包隔离。提现无需做隔离，直接从主号提现即可。但是充值就要对应好每一个地址。项目方发空投的时候，就会想办法剔除明显女巫行为的钱包。我们看看空投历史，从历史看，最开始没有女巫概念，到后来有女巫概念，有筛选门槛。![](img/b9c19404810f197c7886ceedef170c2d.png)在
     Hop 之前几乎没有不查女巫，Hop 开启女巫名单，后续项目空投会有女巫并且参考 hop 名单。何币 1200 个地址被女巫：
-- summary: "-   通过综合分析女巫总结和 ARB、OP空投规则，得出精品号的钱包数据参考，包括主网tx、官方桥、DAO、其他L2的tx等行为，以及交易金额、LP流动性金额等参数。（20\
+- answers: '-   The key components of the wallet data reference for premium accounts
+    include mainnet transactions, official bridges, DAO activities (such as voting
+    and multisig transactions), transactions on other Layer 2 networks, transaction
+    amounts, LP liquidity amounts, protocol diversity, and the analysis of previous
+    airdrop rules from projects like ARB and OP.
+
+    -   Wallet behaviors such as mainnet transactions, official bridges, DAO activities,
+    transactions on other Layer 2 networks, transaction amounts, and LP liquidity
+    amounts provide insights into premium account behavior by indicating the level
+    of engagement, participation in governance, trading activity, liquidity provision,
+    and diversification within protocols. These behaviors collectively paint a picture
+    of how actively and diversely the premium account is involved in various aspects
+    of the ecosystem.
+
+    -   The philosophy of delayed gratification and perseverance emphasizes the importance
+    of maintaining a long-term perspective when engaging in premium account activities.
+    It suggests that although indulging in such activities may involve delays in immediate
+    rewards and entail uncertainties, perseverance and a focus on long-term goals
+    are essential for eventual success and fulfillment.
+
+    -   The synthesis of witching summaries and airdrop rules aids in formulating
+    a comprehensive reference for premium account wallet data by providing insights
+    into historical patterns of wallet behavior, identifying potential strategies
+    for maximizing airdrop opportunities, and understanding the evolving criteria
+    and standards set by projects for airdrop eligibility.
+
+    -   Persisting with indulging in premium account activities despite uncertainties
+    is significant because it aligns with the philosophy of long-termism and delayed
+    gratification. By persevering through challenges and uncertainties, individuals
+    can position themselves favorably to capitalize on future opportunities, maximize
+    potential rewards, and achieve long-term success in the ecosystem.'
+  questions: '-   What are the key components of the wallet data reference for premium
+    accounts, as derived from the comprehensive analysis of the witching summaries
+    and ARB, OP airdrop rules?
+
+    -   How do the wallet behaviors such as mainnet transactions, official bridges,
+    DAO, transactions on other L2 networks, transaction amounts, and LP liquidity
+    amounts contribute to understanding premium account behavior?
+
+    -   How does the philosophy of delayed gratification and perseverance, as mentioned
+    in the summary, relate to the long-term approach of indulging in premium account
+    activities?
+
+    -   In what ways does the synthesis of witching summaries and airdrop rules aid
+    in formulating a comprehensive reference for premium account wallet data?
+
+    -   Could you elaborate on the significance of persisting with indulging in premium
+    account activities despite uncertainties, as highlighted in the summary?'
+  summary: "-   通过综合分析女巫总结和 ARB、OP空投规则，得出精品号的钱包数据参考，包括主网tx、官方桥、DAO、其他L2的tx等行为，以及交易金额、LP流动性金额等参数。（20\
     \ words）\n    1.  通过综合参考女巫总结和空投规则，得出精品号的钱包数据参考。\n    2.  钱包行为包括主网tx、官方桥、DAO、其他L2的tx、交易金额、LP流动性金额等。\n\
     \    3.  最后总结，撸毛是一件长期主义的事情，延迟满足感，不确定性，但坚持下来会有收获。（47 words）"
   text: '![](img/e9073652c6a82f8e72aebd09bff0fc41.png)我之前本来弄了很多分析，但是后来看到 p 总工作室的女巫总结，这个更全面：总结来看就是
