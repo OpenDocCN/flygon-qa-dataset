@@ -1,4 +1,34 @@
-- summary: "-   提示词的优化\n    1.  使用已有数据进行 few shot 学习\n    2.  收集整理已有的数据，生成 jsonl 文件传递给\
+- answers: '-   如何利用已有数据进行 few shot 学习？
+
+    -   利用已有数据进行 few shot 学习的方法是，首先收集整理已有的数据，然后将其转换成jsonl格式，作为few shot的数据传递给GPT。接着，让GPT从这些数据中寻找规律，并作为判断标准。
+
+    -   如何收集整理已有的数据，并生成 jsonl 文件传递给 GPT？
+
+    -   要收集整理已有的数据并生成jsonl文件传递给GPT，首先需要整理已有的数据，然后按照需要判断的新数据的分类，从已有的分类中按照不同比例（精华、非精华）构建被few
+    shot的数据集。接着，将整理的数据转换成jsonl格式，传递给GPT进行学习和判断。
+
+    -   如何使用 ChatPAN insertMaterial with tags 进行优化？
+
+    -   使用ChatPAN insertMaterial with tags可以通过插入标签的方式来优化。可以利用这个功能来解决数据量不足的问题，为GPT提供更多的上下文信息，从而提高学习和判断的准确性。
+
+    -   如何解决数据量不足导致学习基础不足的问题？
+
+    -   要解决数据量不足导致学习基础不足的问题，可以考虑根据分类进行整理，收集和整理更多的数据。同时，可以利用ChatPAN insertMaterial
+    with tags来提供更多的上下文信息，以增加学习的基础。
+
+    -   如何考虑使用一个 GPT 进行分析和抽取判断的维度？
+
+    -   考虑使用一个GPT进行分析和抽取判断的维度，可以先让一个GPT进行分析并抽取出判断的维度，然后让另一个GPT根据这些维度对新的内容进行判断。这样可以提高判断的准确性，同时充分利用GPT的能力。'
+  questions: '-   如何利用已有数据进行 few shot 学习？
+
+    -   如何收集整理已有的数据，并生成 jsonl 文件传递给 GPT？
+
+    -   如何使用 ChatPAN insertMaterial with tags 进行优化？
+
+    -   如何解决数据量不足导致学习基础不足的问题？
+
+    -   如何考虑使用一个 GPT 进行分析和抽取判断的维度？'
+  summary: "-   提示词的优化\n    1.  使用已有数据进行 few shot 学习\n    2.  收集整理已有的数据，生成 jsonl 文件传递给\
     \ gpt\n    3.  使用 ChatPAN insertMaterial with tags 进行改进\n-   改进思路\n    1.  数据量不足导致学习基础不足\n\
     \    2.  考虑使用一个 GPT 进行分析和抽取判断的维度\n    3.  利用另一个 GPT 对新内容进行判断"
   text: '# 提示词的优化> 原文：[`www.yuque.com/for_lazy/thfiu8/datyp2w3hvzdycgh`](https://www.yuque.com/for_lazy/thfiu8/datyp2w3hvzdycgh)##
